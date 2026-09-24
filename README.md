@@ -2,31 +2,30 @@
 
 ## 📌 Project Overview
 
-This project is an end-to-end **Financial Transaction Analytics** project designed to analyze transaction, customer, product, payment, and transaction-status data.
+**Financial Transaction Analytics** is an end-to-end data analytics project focused on analyzing financial transaction data to identify patterns in revenue, customers, products, payment methods, transaction statuses, and time-based performance.
 
-The project follows a complete data analytics workflow:
+The project demonstrates a complete analytics workflow using:
 
-**Raw Data → Python Data Cleaning → MySQL SQL Analysis → Power BI Dashboard → Business Insights**
-
-The objective is to transform raw and inconsistent transaction data into meaningful business insights using Python, SQL, and Power BI.
+**Python → Data Cleaning → SQL Analysis → Power BI Dashboard → Business Insights**
 
 ---
 
 ## 🎯 Project Objectives
 
-- Clean and prepare raw financial transaction data
-- Handle missing and invalid values
-- Analyze product and customer performance
+- Clean and preprocess raw financial transaction data
+- Handle missing and invalid data
+- Analyze customer purchasing behavior
+- Analyze product performance
+- Analyze revenue and transaction trends
 - Analyze payment methods and transaction statuses
-- Identify revenue and transaction trends over time
 - Build an interactive Power BI dashboard
-- Generate business-focused insights from the data
+- Generate meaningful business insights from transaction data
 
 ---
 
-## 📊 Dataset
+# 📊 Dataset
 
-The original dataset contains approximately **100,000 financial transaction records**.
+The project uses a financial transactions dataset containing approximately **100,000 raw transaction records**.
 
 ### Main Columns
 
@@ -43,149 +42,220 @@ The original dataset contains approximately **100,000 financial transaction reco
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 ### Python
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ### SQL
 - MySQL
-- SQL Aggregations
+- Aggregate Functions
 - GROUP BY
 - Subqueries
-- CASE statements
+- CASE Statements
 - Window Functions
-- Date-based Analysis
+- Date Functions
 
 ### Power BI
 - Power BI
 - DAX
-- Interactive Slicers
 - KPI Cards
 - Bar Charts
 - Column Charts
 - Line Charts
 - Donut Charts
 - Matrix
+- Interactive Slicers
 
 ---
 
-## 🔄 Project Workflow
+# 🔄 Project Workflow
 
 ```text
-Raw Dataset
-     ↓
-Python Data Cleaning
-     ↓
-Cleaned Dataset
-     ↓
-MySQL Database
-     ↓
-SQL Analysis
-     ↓
-Power BI
-     ↓
-Interactive Dashboard
-     ↓
-Business Insights
+Raw Financial Transaction Data
+            ↓
+     Python Data Cleaning
+            ↓
+      Cleaned Dataset
+            ↓
+        MySQL / SQL
+            ↓
+       Data Analysis
+            ↓
+       Power BI Dashboard
+            ↓
+      Business Insights
 ```
 
 ---
 
-# 🐍 1. Python Data Cleaning
+# 🐍 1. Python — Data Cleaning
 
-Python was used to inspect, clean, and prepare the raw dataset before performing SQL analysis.
+Python and Pandas were used to inspect and clean the raw financial transaction dataset.
 
-### Data Cleaning Performed
+### Data Cleaning Steps
 
-- Checked missing values
-- Identified invalid negative quantities
-- Identified invalid negative prices
-- Replaced invalid quantity values with appropriate values
-- Imputed missing price values using product-level median values
-- Used an overall median as a fallback for missing prices
-- Handled missing transaction status using `Unknown`
-- Converted `Transaction_Date` into the correct date format
-- Prepared the final cleaned dataset for MySQL analysis
+- Checked the structure and data types of the dataset
+- Identified missing values
+- Identified invalid negative quantity values
+- Identified invalid negative price values
+- Handled missing quantity values
+- Handled missing price values
+- Handled missing transaction status
+- Converted transaction dates into the correct date format
+- Prepared the final cleaned dataset for SQL analysis
 
 ### Output
 
-The cleaned dataset was exported as:
+The cleaned dataset was saved in the `data` folder as:
 
 ```text
-cleaned_transactions.csv
+cleaned_financial_transaction
+```
+
+The complete Python notebook is available in:
+
+```text
+Python/
+└── clean_financial_transactions.ipynb
 ```
 
 ---
 
-# 🗄️ 2. MySQL Analysis
+# 🗄️ 2. SQL — Data Analysis
 
-The cleaned dataset was imported into MySQL for business analysis.
+The cleaned financial transaction data was analyzed using MySQL.
 
-### Analysis Performed
+SQL analysis was divided into five categories.
 
-#### Overall Business Analysis
+## Basic Business Analysis
+
+The analysis includes:
+
 - Total transactions
 - Unique customers
 - Total quantity
 - Total revenue
+- Average price
+- Average quantity
 - Average transaction value
+- Overall business performance
 
-#### Product Analysis
-- Revenue by product
-- Transaction count by product
-- Total quantity by product
-- Average product price
-- Average transaction value by product
-- Product revenue contribution
+File:
 
-#### Customer Analysis
+```text
+SQL/
+└── Basic Business Analysis.sql
+```
+
+---
+
+## Customer Analysis
+
+Customer-level analysis includes:
+
 - Transactions per customer
 - Customer spending
-- Average customer transaction value
+- Average customer spending
 - Top customers by revenue
-- Top customers by transactions
+- Top customers by transaction count
 - Top customers by quantity
-- One-time vs repeat customers
+- One-time customers
+- Repeat customers
+- Revenue contribution from top customers
 
-#### Payment Analysis
-- Transactions by payment method
-- Revenue by payment method
-- Average transaction value by payment method
-- Payment method with the highest transaction volume
+File:
 
-#### Transaction Status Analysis
-- Transaction status distribution
-- Revenue by transaction status
-- Transaction status by payment method
-- Completed transaction percentage
-- Missing/unknown transaction status
+```text
+SQL/
+└── Customer Analysis.sql
+```
 
-#### Time-Based Analysis
+---
+
+## Date & Time Analysis
+
+Time-based analysis includes:
+
 - Daily revenue
 - Monthly revenue
 - Monthly transaction volume
 - Highest-revenue month
 - Highest-transaction month
 - Highest-revenue day
-- Top product by revenue for each month
+- Product performance by month
+
+File:
+
+```text
+SQL/
+└── Date and Time Analysis.sql
+```
 
 ---
 
-# 📊 3. Power BI Dashboard
+## Payment & Transaction Analysis
 
-The final cleaned data and analytical results were used to create an interactive Power BI dashboard.
+This analysis focuses on payment methods and transaction statuses.
+
+It includes:
+
+- Transactions by payment method
+- Revenue by payment method
+- Average transaction value by payment method
+- Transaction status distribution
+- Revenue by transaction status
+- Completed transaction percentage
+- Payment methods associated with unsuccessful transactions
+
+File:
+
+```text
+SQL/
+└── Payment & Transaction Analysis.sql
+```
+
+---
+
+## Product Analysis
+
+Product-level analysis includes:
+
+- Revenue by product
+- Transaction count by product
+- Quantity sold by product
+- Average product price
+- Average transaction value by product
+- Product revenue contribution
+- Unique customers by product
+- Repeat customer analysis
+
+File:
+
+```text
+SQL/
+└── Product_Analyzing.sql
+```
+
+---
+
+# 📈 3. Power BI Dashboard
+
+The cleaned data was used to create an interactive **Financial Transactions Power BI Dashboard**.
+
+The dashboard contains three pages.
+
+---
 
 ## Page 1 — Executive Overview
 
-This page provides a high-level view of business performance.
+This page provides an overall view of financial transaction performance.
 
-### KPIs
+### Key Metrics
+
 - Unique Customers
 - Total Transactions
 - Total Quantity
@@ -193,17 +263,21 @@ This page provides a high-level view of business performance.
 - Average Transaction Value
 
 ### Visualizations
+
 - Revenue by Payment Method
 - Monthly Revenue
 - Revenue by Product
 - Daily Revenue
 - Transaction Status Distribution
 
-### Slicers
+### Filters
+
 - Year
 - Product
 - Payment Method
 - Transaction Status
+
+![Page 1 - Executive Overview](Power%20BI/page1_executive_overview.png)
 
 ---
 
@@ -221,9 +295,7 @@ This page focuses on product performance and customer behavior.
 - Products by Average Price
 - Product Performance Matrix
 
-### Product Performance Matrix
-
-The matrix combines:
+The product performance matrix contains:
 
 ```text
 Product
@@ -233,11 +305,13 @@ Average Selling Price
 Total Transactions
 ```
 
+![Page 2 - Product & Customer Analysis](Power%20BI/page2_executive_overview.png)
+
 ---
 
 ## Page 3 — Transaction & Payment Analysis
 
-This page focuses on transaction behavior and payment patterns.
+This page focuses on transaction behavior, payment methods, and transaction statuses.
 
 ### Visualizations
 
@@ -247,16 +321,18 @@ This page focuses on transaction behavior and payment patterns.
 - Revenue by Transaction Status
 - Transactions by Transaction Status
 
-### Slicers
+### Filters
 
 - Payment Method
 - Transaction Status
+
+![Page 3 - Transaction & Payment Analysis](Power%20BI/page3_executive_overview.png)
 
 ---
 
 # 📐 DAX Measures
 
-The Power BI dashboard uses DAX measures for key business metrics.
+Some important DAX measures used in the Power BI dashboard include:
 
 ### Total Revenue
 
@@ -315,86 +391,73 @@ AVERAGE(
 
 ---
 
-# 📈 Dashboard Metrics
-
-Based on the current cleaned dataset used in the Power BI dashboard:
-
-| Metric | Value |
-|---|---:|
-| Total Transactions | 85,080 |
-| Unique Customers | ~5,000 |
-| Total Quantity | ~18.32M |
-| Total Revenue | ~₹9.58B |
-| Average Transaction Value | ~₹112.61K |
-
-*Values may change depending on applied dashboard filters.*
-
----
-
 # 💡 Business Questions Answered
 
-This project answers questions such as:
+This project answers several important business questions:
 
-- What is the total revenue generated?
-- How many transactions were completed?
-- How many unique customers made purchases?
+### Business Performance
+- What is the total revenue?
+- How many transactions occurred?
+- How many unique customers are there?
+- What is the average transaction value?
+
+### Product Performance
 - Which products generate the most revenue?
-- Which products have the highest sales quantity?
-- Which customers contribute the most revenue?
+- Which products have the highest quantity sold?
+- Which products have the highest average price?
+- How many transactions does each product generate?
+
+### Customer Behavior
+- Which customers generate the highest revenue?
 - Which customers make the most transactions?
-- Which payment method generates the most revenue?
-- How are transactions distributed by status?
-- Which months generate the highest revenue?
-- Which days have the highest revenue?
-- How does transaction activity change over time?
+- Which customers purchase the highest quantity?
+- How many customers are repeat customers?
+
+### Payment & Transactions
+- Which payment method has the highest transaction volume?
+- Which payment method generates the highest revenue?
+- What percentage of transactions are completed?
+- How are transactions distributed across different statuses?
+
+### Time-Based Performance
+- How does revenue change over time?
+- Which month generates the highest revenue?
+- Which month has the highest transaction volume?
+- Which day generates the highest revenue?
 
 ---
 
 # 📁 Project Structure
 
 ```text
-financial-transaction-analytics/
+Financial_Transaction_Analytics/
 │
-├── notebooks/
-│   └── financial_transaction_analysis.ipynb
+├── 📁 data/
+│   ├── cleaned_financial_transaction
+│   └── financial-transactions
 │
-├── python/
-│   └── financial_transaction_analysis.py
-│
-├── sql/
-│   └── financial_transaction_analysis.sql
-│
-├── data/
-│   └── cleaned_transactions.csv
-│
-├── dashboard/
+├── 📁 Power BI/
+│   ├── Financial Transactions.pbix
 │   ├── page1_executive_overview.png
-│   ├── page2_product_customer.png
-│   └── page3_transaction_payment.png
+│   ├── page2_executive_overview.png
+│   └── page3_executive_overview.png
 │
-├── README.md
-└── .gitignore
+├── 📁 Python/
+│   └── clean_financial_transactions.ipynb
+│
+├── 📁 SQL/
+│   ├── Basic Business Analysis.sql
+│   ├── Customer Analysis.sql
+│   ├── Date and Time Analysis.sql
+│   ├── Payment & Transaction Analysis.sql
+│   └── Product_Analyzing.sql
+│
+└── README.md
 ```
 
 ---
 
-# 📸 Dashboard Preview
-
-## Page 1 — Executive Overview
-
-![Executive Overview](dashboard/page1_executive_overview.png)
-
-## Page 2 — Product & Customer Analysis
-
-![Product & Customer Analysis](dashboard/page2_product_customer.png)
-
-## Page 3 — Transaction & Payment Analysis
-
-![Transaction & Payment Analysis](dashboard/page3_transaction_payment.png)
-
----
-
-# 🔍 Key Skills Demonstrated
+# 📌 Key Skills Demonstrated
 
 - Data Cleaning
 - Data Preprocessing
@@ -402,12 +465,13 @@ financial-transaction-analytics/
 - Python
 - Pandas
 - NumPy
+- Jupyter Notebook
 - SQL
 - MySQL
 - Data Aggregation
-- Customer Analysis
-- Product Analysis
-- Financial Analysis
+- Customer Analytics
+- Product Analytics
+- Financial Analytics
 - Power BI
 - DAX
 - Data Visualization
@@ -418,9 +482,11 @@ financial-transaction-analytics/
 
 # 🚀 Conclusion
 
-This project demonstrates an end-to-end data analytics workflow, starting from raw transaction data and progressing through **data cleaning, SQL analysis, dashboard development, and business insights**.
+This project demonstrates a complete **end-to-end data analytics workflow**, from cleaning raw financial transaction data to performing SQL-based analysis and developing an interactive Power BI dashboard.
 
-It demonstrates practical skills required for entry-level **Data Analyst, Business Intelligence, Reporting, Financial Analytics, and related data roles**.
+The project showcases practical skills in **Python, SQL, MySQL, Power BI, DAX, data cleaning, data analysis, visualization, and business intelligence**.
+
+It is designed to demonstrate the type of analytical workflow used in real-world **Data Analyst, Financial Analyst, Business Intelligence, Reporting, and related analytics roles**.
 
 ---
 
@@ -428,6 +494,6 @@ It demonstrates practical skills required for entry-level **Data Analyst, Busine
 
 **Govind Tyagi**
 
-Data Analytics | Python | SQL | Power BI | Excel
+**Skills:** Python | SQL | Power BI | Excel | Data Analysis | Machine Learning
 
-GitHub: [Govindtyagi123](https://github.com/Govindtyagi123)
+**GitHub:** [Govindtyagi123](https://github.com/Govindtyagi123)
