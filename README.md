@@ -365,4 +365,84 @@ AVERAGE(
 - How many customers are repeat customers?
 
 ### Payment & Transactions
-- Which payment method has the highest
+- Which payment method has the highest transaction volume?
+- Which payment method generates the highest revenue?
+- What percentage of transactions are completed?
+- How are transactions distributed across different statuses?
+
+### Time-Based Performance
+- How does revenue change over time?
+- Which month generates the highest revenue?
+- Which month has the highest transaction volume?
+- Which day generates the highest revenue?
+
+---
+
+# 📁 Project Structure
+
+```text
+Financial_Transaction_Analytics/
+│
+├── data/
+│   ├── cleaned_financial_transaction
+│   └── financial-transactions
+│
+├── Power BI/
+│   ├── Financial Transactions.pbix
+│   ├── page1_executive_overview.png
+│   ├── page2_executive_overview.png
+│   └── page3_executive_overview.png
+│
+├── Python/
+│   └── clean_financial_transactions.ipynb
+│
+├── SQL/
+│   ├── Basic Business Analysis.sql
+│   ├── Customer Analysis.sql
+│   ├── Date and Time Analysis.sql
+│   ├── Payment & Transaction Analysis.sql
+│   └── Product_Analyzing.sql
+│
+└── README.md
+```
+
+---
+
+# 📌 Key Skills Demonstrated
+
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+- SQL
+- MySQL
+- Data Aggregation
+- Customer Analytics
+- Product Analytics
+- Financial Analytics
+- Power BI
+- DAX
+- Data Visualization
+- Dashboard Development
+- Business Insight Generation
+
+---
+
+# 🚀 Conclusion
+
+This project demonstrates a complete **end-to-end data analytics workflow**, from cleaning raw financial transaction data to performing SQL-based analysis and developing an interactive Power BI dashboard.
+
+It showcases practical skills in **Python, SQL, MySQL, Power BI, DAX, data cleaning, data analysis, visualization, and business intelligence**.
+
+The project demonstrates the ability to transform raw data into meaningful business insights using multiple data analytics tools.
+
+---
+
+## 👤 Author
+
+**Govind Tyagi**
+
+**Skills:** Python | SQL | Power BI | Excel | Data Analysis | Machine Learning
