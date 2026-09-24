@@ -1,0 +1,801 @@
+transaction_id,transaction_date,account_type,transaction_type,amount,currency,merchant_category,region,status,is_flagged
+TXN-6633562,2023-01-30,Credit Card,Fee,100381.49,INR,Entertainment,International,Failed,1
+TXN-9881822,2024-07-12,NRE,Purchase,132119.5,INR,Grocery,East,Completed,0
+TXN-3504074,2023-01-23,Credit Card,Deposit,130668.05,INR,Education,International,Completed,0
+TXN-7748350,2023-05-18,Current,Purchase,52736.84,INR,Healthcare,West,Completed,0
+TXN-2854374,2023-11-26,Salary,Transfer,65131.09,INR,Utilities,North-East,Completed,0
+TXN-8466035,2024-07-16,NRE,Purchase,75438.92,INR,Grocery,North-East,Completed,0
+TXN-2038790,2023-07-12,Salary,Refund,133408.25,INR,Utilities,West,Completed,0
+TXN-5359126,2024-05-08,Current,Fee,116529.2,INR,Grocery,Central,Completed,0
+TXN-7676159,2024-04-11,NRE,Fee,133879.7,INR,Electronics,Central,Completed,0
+TXN-8306304,2023-05-19,Credit Card,Withdrawal,148202.26,INR,Entertainment,Central,Completed,0
+TXN-7726532,2023-12-11,Savings,Fee,47651.55,INR,Utilities,North-East,Completed,0
+TXN-8064982,2023-07-10,Credit Card,Refund,5264.46,INR,Electronics,Central,Completed,0
+TXN-6049901,2023-07-26,Savings,Withdrawal,66722.19,INR,Fuel,West,Completed,0
+TXN-2153165,2023-04-04,Current,Purchase,67687.95,INR,Dining,International,Failed,0
+TXN-3698303,2024-01-07,Salary,Purchase,41201.44,INR,Healthcare,West,Failed,0
+TXN-1965273,2024-02-02,Credit Card,Refund,23707.58,INR,Grocery,West,Completed,0
+TXN-4592350,2024-05-07,NRE,Fee,12013.94,INR,Entertainment,International,Completed,0
+TXN-1093817,2023-08-21,Salary,Refund,18786.6,INR,Fuel,North-East,Completed,0
+TXN-5532957,2023-04-09,NRE,Refund,3796.08,INR,Healthcare,North,Failed,0
+TXN-2103827,2024-12-18,NRE,Fee,51036.96,INR,Utilities,South,Completed,0
+TXN-7823638,2024-10-16,Current,Fee,122341.12,INR,Entertainment,North,Completed,0
+TXN-9643288,2023-09-06,Credit Card,Refund,93152.29,INR,Utilities,North-East,Completed,0
+TXN-1510531,2023-11-12,Savings,Withdrawal,13686.42,INR,Travel,International,Completed,0
+TXN-4365217,2024-10-31,Credit Card,Deposit,101403.06,INR,Online Shopping,Central,Completed,0
+TXN-9024545,2024-12-09,NRE,Deposit,75719.95,INR,Dining,Central,Completed,0
+TXN-3620343,2023-11-05,Savings,Fee,4091.98,INR,Dining,Central,Completed,0
+TXN-3387906,2023-10-26,Salary,Transfer,63275.23,INR,Electronics,North,Completed,0
+TXN-3045203,2023-07-10,Savings,Purchase,97243.89,INR,Online Shopping,South,Pending,0
+TXN-7267988,2023-03-01,Credit Card,Deposit,36272.14,INR,Fuel,International,Completed,0
+TXN-3625750,2024-12-03,Savings,Purchase,17750.01,INR,Online Shopping,South,Completed,0
+TXN-1275966,2024-08-28,NRE,Transfer,47696.32,INR,Fuel,Central,Completed,0
+TXN-1001702,2023-04-26,NRE,Withdrawal,72630.5,INR,Entertainment,Central,Completed,0
+TXN-7158854,2024-08-14,Current,Purchase,16085.45,INR,Dining,Central,Failed,0
+TXN-1896516,2024-12-04,Current,Transfer,69912.85,INR,,East,Completed,0
+TXN-4105328,2023-07-25,Savings,Withdrawal,89512.63,INR,Electronics,West,Completed,0
+TXN-4061515,2023-10-22,Current,Transfer,132439.76,INR,Utilities,North,Completed,0
+TXN-2505507,2023-10-11,Credit Card,Fee,84463.99,INR,Electronics,South,Completed,0
+TXN-2144728,2023-10-28,Salary,Purchase,130264.32,INR,Fuel,North,Completed,0
+TXN-6626734,2024-10-03,Salary,Fee,104886.2,INR,Electronics,Central,Completed,0
+TXN-4959625,2023-11-24,Salary,Withdrawal,77254.84,INR,Entertainment,North-East,Completed,0
+TXN-7284647,2024-05-29,NRE,Transfer,135547.33,INR,Travel,North-East,Completed,0
+TXN-2325727,2023-10-04,Savings,Purchase,59548.33,INR,Dining,South,Completed,0
+TXN-8034562,2023-10-03,Current,Transfer,37527.36,INR,Education,East,Completed,0
+TXN-6354278,2023-10-30,NRE,Fee,85094.61,INR,Healthcare,North,Completed,0
+TXN-2348263,2023-04-26,Current,Deposit,18011.76,INR,Travel,North,Completed,0
+TXN-5861774,2023-06-18,NRE,Fee,56909.83,INR,Entertainment,West,Completed,0
+TXN-1553834,2024-12-04,Salary,Transfer,66235.56,INR,Dining,North,Pending,0
+TXN-1431925,2024-08-24,Credit Card,Deposit,66342.58,INR,Fuel,International,Completed,0
+TXN-2009186,2024-11-27,Current,Fee,132235.69,INR,Healthcare,Central,Completed,0
+TXN-3107426,2024-03-11,Salary,Fee,37840.0,INR,Utilities,Central,Pending,0
+TXN-6242406,2023-08-29,Current,Fee,136499.82,INR,Travel,International,Completed,0
+TXN-5215907,2023-07-29,Current,Purchase,8836.86,INR,Utilities,East,Completed,0
+TXN-1229489,2023-01-17,Current,Refund,143714.5,INR,Entertainment,Central,Completed,0
+TXN-7220830,2023-01-15,Credit Card,Fee,63953.07,INR,Healthcare,South,Completed,0
+TXN-6351115,2024-09-04,Salary,Deposit,90214.77,INR,Travel,Central,Completed,0
+TXN-5421670,2024-09-25,Credit Card,Purchase,113635.85,INR,Education,West,Completed,0
+TXN-4612948,2024-12-01,Credit Card,Withdrawal,124529.04,INR,Entertainment,Central,Completed,0
+TXN-2143847,2023-03-31,Salary,Purchase,31910.74,INR,,North,Completed,0
+TXN-7016949,2024-05-09,Credit Card,Deposit,84860.51,INR,Dining,North-East,Completed,0
+TXN-9642338,2023-12-27,Salary,Purchase,82985.36,INR,Electronics,North-East,Completed,0
+TXN-8819749,2023-02-24,Savings,Refund,9008.37,INR,Healthcare,International,Completed,0
+TXN-4723345,2024-04-18,NRE,Transfer,58641.95,INR,Travel,South,Completed,0
+TXN-2675440,2023-08-31,NRE,Fee,47422.09,INR,,East,Completed,0
+TXN-7334500,2024-07-06,Credit Card,Fee,16007.67,INR,Online Shopping,International,Completed,0
+TXN-4615397,2024-06-20,NRE,Fee,95454.88,INR,Online Shopping,International,Completed,0
+TXN-8283713,2024-11-14,Salary,Fee,23438.68,INR,Dining,Central,Completed,0
+TXN-5491142,2023-03-24,NRE,Transfer,136715.51,INR,Grocery,East,Completed,0
+TXN-6049873,2023-09-22,Savings,Deposit,5496670.35,INR,Entertainment,South,Completed,0
+TXN-2209308,2023-07-17,Current,Refund,59196.89,INR,,East,Completed,0
+TXN-7656374,2024-09-14,Current,Deposit,88479.18,INR,Online Shopping,North,Completed,0
+TXN-3385270,2023-10-28,NRE,Transfer,97423.94,INR,Grocery,North-East,Completed,0
+TXN-7692343,2023-07-13,Credit Card,Transfer,29260.28,INR,Fuel,North,Completed,0
+TXN-9043365,2024-10-20,Savings,Withdrawal,109285.72,INR,Travel,North-East,Pending,0
+TXN-6246427,2023-09-04,Current,Fee,91869.81,INR,Online Shopping,International,Completed,0
+TXN-2386548,2024-08-11,Current,Withdrawal,29535.43,INR,Grocery,East,Completed,0
+TXN-4886269,2024-05-10,Current,Withdrawal,143491.83,INR,Healthcare,East,Pending,0
+TXN-7779815,2024-09-22,Salary,Fee,68049.01,INR,Online Shopping,North,Pending,0
+TXN-2609156,2023-07-05,Credit Card,Withdrawal,97985.86,INR,Dining,East,Pending,0
+TXN-1105188,2023-08-20,Current,Deposit,77681.9,INR,Online Shopping,North-East,Completed,0
+TXN-7182369,2024-01-15,Credit Card,Withdrawal,1379.52,INR,,West,Completed,0
+TXN-6137744,2023-11-09,Salary,Deposit,48566.63,INR,Dining,International,Completed,0
+TXN-8794442,2024-09-13,Credit Card,Deposit,112720.37,INR,Dining,North,Completed,0
+TXN-3637502,2023-12-03,NRE,Fee,57191.95,INR,Education,South,Pending,0
+TXN-4064622,2023-04-17,Current,Transfer,103991.28,INR,Dining,North,Completed,0
+TXN-4359298,2023-05-09,Salary,Withdrawal,7662.29,INR,Utilities,East,Completed,0
+TXN-8248194,2024-07-24,NRE,Deposit,141877.65,INR,Entertainment,Central,Completed,0
+TXN-5358806,2023-10-21,Credit Card,Deposit,123670.0,INR,Entertainment,South,Completed,0
+TXN-7162027,2024-02-19,Current,Fee,3924123.59,INR,Dining,International,Completed,0
+TXN-7360556,2023-08-07,Salary,Fee,110720.92,INR,Utilities,International,Failed,0
+TXN-1428274,2024-07-07,Salary,Purchase,94833.39,INR,Entertainment,West,Completed,0
+TXN-6636594,2024-06-14,Savings,Transfer,110747.74,INR,Online Shopping,Central,Pending,0
+TXN-8735930,2024-06-22,Savings,Refund,102683.24,INR,Education,South,Pending,0
+TXN-1310497,2024-01-26,Savings,Refund,125832.46,INR,Online Shopping,International,Completed,0
+TXN-8223271,2023-05-01,Credit Card,Fee,85215.3,INR,Education,East,Completed,0
+TXN-7467908,2023-08-28,Current,Transfer,63113.68,INR,Healthcare,Central,Completed,0
+TXN-4870830,2024-04-14,Salary,Withdrawal,81388.86,INR,Travel,International,Completed,0
+TXN-7282553,2024-03-20,Credit Card,Withdrawal,47318.91,INR,Healthcare,South,Completed,0
+TXN-7614049,2024-01-12,Savings,Refund,123320.44,INR,Online Shopping,North-East,Completed,0
+TXN-8992185,2023-01-05,NRE,Purchase,60928.07,INR,Electronics,North,Completed,0
+TXN-6094890,2024-12-05,NRE,Deposit,2730.44,INR,Grocery,International,Completed,0
+TXN-7755446,2023-12-07,Savings,Fee,47436.43,INR,Electronics,International,Completed,0
+TXN-5835562,2024-09-18,Salary,Purchase,41005.98,INR,Utilities,South,Completed,0
+TXN-7698502,2023-07-18,NRE,Withdrawal,36350.11,INR,Dining,North,Completed,0
+TXN-7453132,2024-05-23,Credit Card,Fee,22739.78,INR,Entertainment,International,Completed,0
+TXN-3850354,2024-04-21,Credit Card,Purchase,58925.55,INR,Travel,North,Failed,0
+TXN-4092945,2024-02-18,Savings,Purchase,58034.82,INR,Healthcare,Central,Completed,0
+TXN-3643894,2024-08-09,Current,Deposit,87001.0,INR,Utilities,International,Completed,0
+TXN-1412268,2023-07-22,NRE,Withdrawal,38671.75,INR,Online Shopping,West,Failed,0
+TXN-5882818,2023-11-08,Savings,Fee,91720.73,INR,Fuel,East,Completed,0
+TXN-7609916,2024-04-09,NRE,Refund,139604.38,INR,Healthcare,North-East,Completed,0
+TXN-7705317,2024-12-15,NRE,Transfer,109932.02,INR,Online Shopping,South,Completed,0
+TXN-8621153,2024-12-09,Current,Refund,80318.4,INR,Dining,South,Completed,0
+TXN-2687967,2024-04-16,Current,Withdrawal,19133.32,INR,Education,International,Completed,0
+TXN-9607833,2024-02-17,Current,Transfer,117332.84,INR,Online Shopping,West,Completed,0
+TXN-7681528,2023-05-13,Salary,Fee,95771.45,INR,Utilities,North,Pending,0
+TXN-6538491,2024-01-03,Current,Withdrawal,94763.92,INR,Travel,South,Failed,0
+TXN-7408367,2024-10-22,NRE,Withdrawal,135303.47,INR,Utilities,International,Completed,0
+TXN-6299671,2023-06-24,NRE,Transfer,52393.75,INR,Education,North,Completed,0
+TXN-9121819,2024-09-27,Credit Card,Withdrawal,96791.05,INR,Fuel,West,Completed,0
+TXN-4885420,2024-03-27,Savings,Deposit,5950.89,INR,Grocery,North,Completed,0
+TXN-2212503,2024-11-29,NRE,Purchase,8333.21,INR,Education,North-East,Pending,0
+TXN-3648014,2024-08-23,Salary,Refund,113969.87,INR,Fuel,International,Completed,0
+TXN-6369437,2024-03-17,Credit Card,Purchase,20935.57,INR,Online Shopping,North,Completed,0
+TXN-4087000,2023-03-04,NRE,Purchase,140570.76,INR,Healthcare,Central,Completed,0
+TXN-1177608,2024-11-14,Salary,Withdrawal,125690.4,INR,Healthcare,Central,Completed,0
+TXN-3969608,2023-05-30,Current,Transfer,2797.6,INR,Online Shopping,International,Completed,0
+TXN-9151125,2023-10-24,Savings,Withdrawal,40164.41,INR,Travel,West,Completed,0
+TXN-6910393,2023-08-10,Current,Withdrawal,46280.08,INR,Travel,North,Completed,0
+TXN-1886452,2023-08-12,Current,Refund,45574.63,INR,Online Shopping,North,Completed,0
+TXN-1999547,2023-08-16,Current,Deposit,127996.56,INR,Travel,International,Completed,0
+TXN-8525878,2024-01-24,NRE,Deposit,148738.86,INR,Entertainment,West,Completed,0
+TXN-5758933,2023-12-26,Credit Card,Fee,65179.09,INR,Travel,North,Completed,0
+TXN-5101724,2023-01-29,Salary,Refund,11838.3,INR,Utilities,West,Completed,0
+TXN-1905270,2024-03-09,NRE,Refund,79888.63,INR,Fuel,East,Completed,0
+TXN-5426918,2023-04-23,Salary,Fee,45375.91,INR,,Central,Completed,0
+TXN-5958431,2024-01-06,NRE,Transfer,104050.17,INR,Electronics,International,Completed,0
+TXN-6276347,2024-09-07,Current,Transfer,35447.49,INR,Utilities,Central,Completed,0
+TXN-5334925,2024-05-06,Current,Withdrawal,140984.83,INR,Utilities,International,Completed,0
+TXN-9211958,2023-02-22,Salary,Withdrawal,37944.9,INR,Healthcare,East,Completed,0
+TXN-3006377,2023-08-22,Current,Fee,101833.05,INR,Travel,West,Completed,0
+TXN-8521586,2024-02-15,NRE,Deposit,32081.95,INR,Education,North,Completed,0
+TXN-4780262,2023-09-13,Current,Deposit,10947.57,INR,Electronics,North,Completed,0
+TXN-2496656,2023-01-11,Salary,Fee,47391.51,INR,Education,International,Completed,0
+TXN-5995887,2024-10-07,Savings,Refund,142868.29,INR,Online Shopping,East,Completed,0
+TXN-7138341,2023-06-13,NRE,Purchase,58665.75,INR,Fuel,South,Pending,0
+TXN-1048693,2023-07-27,Current,Transfer,108071.59,INR,Healthcare,West,Completed,0
+TXN-3255803,2024-11-14,Savings,Deposit,4541.21,INR,Education,North-East,Completed,0
+TXN-2069375,2024-12-13,Savings,Deposit,139454.2,INR,Dining,West,Completed,0
+TXN-4279104,2023-04-08,NRE,Deposit,84800.07,INR,Travel,International,Completed,0
+TXN-3792073,2023-04-06,Current,Refund,4077133.97,INR,Grocery,North,Completed,0
+TXN-3812924,2023-07-14,Current,Withdrawal,93283.5,INR,Online Shopping,North,Pending,0
+TXN-6876025,2023-04-27,Credit Card,Deposit,27803.71,INR,Education,East,Completed,0
+TXN-3029033,2023-06-18,Salary,Refund,25054.08,INR,Grocery,East,Completed,0
+TXN-4150072,2024-05-12,Credit Card,Transfer,29053.46,INR,Fuel,International,Completed,0
+TXN-7975747,2023-06-20,Credit Card,Fee,63399.11,INR,Grocery,South,Completed,0
+TXN-4145154,2024-02-29,Savings,Deposit,42888.27,INR,Utilities,North,Completed,0
+TXN-1618345,2023-11-10,Salary,Withdrawal,41224.31,INR,Utilities,East,Completed,0
+TXN-9466469,2024-03-16,Salary,Withdrawal,25087.4,INR,Grocery,East,Completed,0
+TXN-3687071,2024-08-04,NRE,Purchase,28232.05,INR,Electronics,South,Completed,0
+TXN-8801724,2024-06-03,Savings,Refund,51452.79,INR,Grocery,Central,Completed,0
+TXN-5096098,2023-11-09,Current,Purchase,46203.67,INR,Entertainment,International,Completed,0
+TXN-9039093,2024-12-25,Credit Card,Purchase,107956.75,INR,Travel,West,Completed,0
+TXN-7433556,2023-03-01,Current,Fee,118729.62,INR,Online Shopping,South,Completed,0
+TXN-4869970,2023-03-05,Savings,Deposit,11605.61,INR,Online Shopping,North,Completed,0
+TXN-4936202,2023-01-13,Current,Purchase,130354.49,INR,Online Shopping,East,Completed,0
+TXN-3704842,2023-11-09,Credit Card,Withdrawal,87989.0,INR,Grocery,West,Pending,0
+TXN-3297636,2024-07-23,NRE,Withdrawal,94321.02,INR,Healthcare,West,Completed,0
+TXN-9680082,2023-10-19,NRE,Purchase,137048.8,INR,,East,Completed,0
+TXN-5798179,2023-05-27,NRE,Fee,149623.6,INR,Electronics,International,Completed,0
+TXN-3585059,2024-03-06,Savings,Withdrawal,61486.24,INR,Fuel,International,Completed,0
+TXN-8448979,2024-04-10,Savings,Deposit,106363.94,INR,Entertainment,North,Completed,0
+TXN-9631134,2024-10-16,NRE,Purchase,21290.45,INR,Education,International,Completed,0
+TXN-5394546,2023-01-29,Savings,Fee,62323.29,INR,Dining,North,Completed,0
+TXN-6196367,2024-02-14,Salary,Refund,102645.48,INR,Utilities,East,Completed,0
+TXN-7315723,2023-09-12,Savings,Refund,120657.3,INR,Entertainment,South,Pending,0
+TXN-5795209,2023-07-11,Savings,Deposit,85796.7,INR,,South,Completed,0
+TXN-7236976,2024-02-16,Credit Card,Fee,39152.68,INR,Electronics,East,Completed,0
+TXN-3837461,2023-06-18,Savings,Withdrawal,81822.54,INR,Dining,South,Completed,0
+TXN-2676630,2023-04-12,Salary,Fee,26739.86,INR,Education,North,Pending,0
+TXN-5512334,2024-11-10,NRE,Transfer,125961.08,INR,Electronics,North,Completed,0
+TXN-7664058,2023-01-08,Credit Card,Transfer,24013.13,INR,Utilities,North-East,Completed,0
+TXN-9462468,2023-03-21,Credit Card,Fee,63271.32,INR,Healthcare,International,Completed,0
+TXN-1485633,2024-02-25,Salary,Fee,3114.88,INR,Grocery,North,Pending,0
+TXN-7989931,2024-12-28,Credit Card,Withdrawal,36729.93,INR,Utilities,East,Failed,0
+TXN-1521872,2024-04-10,Current,Transfer,20979.83,INR,Fuel,South,Completed,0
+TXN-1343336,2024-11-05,Credit Card,Withdrawal,147968.11,INR,Fuel,West,Completed,0
+TXN-4553571,2024-06-29,NRE,Fee,128709.37,INR,Entertainment,North,Pending,0
+TXN-4343853,2023-11-28,Current,Refund,84415.15,INR,Dining,West,Pending,0
+TXN-6052768,2023-07-18,Current,Refund,28445.48,INR,Utilities,East,Completed,0
+TXN-3082282,2024-08-28,NRE,Transfer,129545.79,INR,Fuel,West,Completed,0
+TXN-8823489,2024-12-25,Current,Transfer,137869.31,INR,Entertainment,South,Completed,0
+TXN-9270535,2023-10-10,Credit Card,Deposit,127286.21,INR,Entertainment,International,Completed,0
+TXN-5004799,2023-12-27,Salary,Transfer,115474.81,INR,Dining,West,Completed,0
+TXN-2099781,2023-06-23,NRE,Deposit,18373.14,INR,Grocery,South,Completed,0
+TXN-8059547,2024-06-20,Credit Card,Purchase,30481.47,INR,Electronics,Central,Completed,0
+TXN-2180710,2024-06-24,Credit Card,Withdrawal,109030.56,INR,Travel,North-East,Completed,0
+TXN-4626258,2024-08-28,Savings,Withdrawal,12885.46,INR,Travel,International,Completed,0
+TXN-8317914,2023-02-23,Savings,Refund,116562.22,INR,Online Shopping,International,Completed,0
+TXN-1875480,2024-05-22,Credit Card,Refund,49646.7,INR,Electronics,East,Completed,0
+TXN-8434025,2024-04-04,Savings,Refund,140357.06,INR,Utilities,East,Completed,0
+TXN-4419653,2024-12-21,NRE,Refund,116794.31,INR,Entertainment,West,Failed,0
+TXN-1392049,2023-05-13,NRE,Fee,138987.03,INR,Fuel,West,Completed,0
+TXN-3389961,2024-01-10,Savings,Transfer,68978.37,INR,Fuel,North-East,Completed,0
+TXN-5728255,2024-03-08,Savings,Fee,121269.61,INR,Utilities,International,Completed,0
+TXN-3424941,2024-03-26,NRE,Transfer,67009.68,INR,Grocery,West,Completed,0
+TXN-7857467,2023-05-04,Credit Card,Transfer,108321.79,INR,Grocery,South,Completed,0
+TXN-1782285,2023-03-24,Savings,Fee,124905.16,INR,Travel,East,Completed,0
+TXN-5254374,2023-08-16,Current,Deposit,110734.67,INR,,International,Completed,0
+TXN-6016519,2023-12-27,Savings,Deposit,17908.46,INR,,East,Completed,0
+TXN-7879193,2023-04-08,NRE,Refund,124724.95,INR,Fuel,North-East,Completed,0
+TXN-6167867,2023-02-21,Credit Card,Fee,67837.45,INR,Utilities,North,Failed,1
+TXN-2180655,2023-11-27,NRE,Deposit,36615.41,INR,Education,North-East,Completed,0
+TXN-9262772,2023-05-27,Savings,Withdrawal,80564.96,INR,Online Shopping,East,Completed,0
+TXN-7586408,2024-11-20,Credit Card,Fee,4228467.26,INR,Travel,South,Failed,0
+TXN-6152383,2024-07-18,NRE,Transfer,74311.08,INR,Healthcare,North-East,Completed,0
+TXN-1726181,2024-04-12,Salary,Transfer,57186.71,INR,Dining,East,Pending,0
+TXN-1929091,2024-03-10,Credit Card,Purchase,129837.69,INR,Entertainment,South,Completed,0
+TXN-8822681,2024-02-25,Current,Deposit,4570.7,INR,Utilities,East,Completed,0
+TXN-7262932,2024-04-13,Savings,Transfer,57972.18,INR,Healthcare,East,Completed,0
+TXN-9003743,2024-07-15,Current,Refund,33583.9,INR,Healthcare,West,Completed,0
+TXN-2628089,2024-11-29,NRE,Refund,60577.6,INR,Education,West,Completed,0
+TXN-4088905,2024-01-05,Salary,Refund,15485.17,INR,Education,South,Completed,0
+TXN-8697448,2023-08-12,Current,Refund,133078.64,INR,Utilities,Central,Completed,0
+TXN-3283726,2023-01-27,NRE,Transfer,66325.89,INR,,West,Completed,0
+TXN-6533450,2023-09-25,Salary,Withdrawal,55016.43,INR,Utilities,North,Completed,0
+TXN-3227040,2024-05-14,Current,Fee,118229.51,INR,Grocery,South,Completed,0
+TXN-1803751,2024-06-10,Savings,Refund,44732.46,INR,Education,North-East,Completed,0
+TXN-6330203,2023-08-17,Current,Refund,115155.48,INR,Healthcare,North-East,Completed,0
+TXN-7890697,2024-02-08,Salary,Purchase,80903.95,INR,Fuel,International,Completed,0
+TXN-3400610,2023-07-30,NRE,Transfer,47693.53,INR,Dining,South,Completed,0
+TXN-4981264,2023-09-12,Salary,Transfer,55548.12,INR,Fuel,Central,Completed,0
+TXN-7085257,2023-08-08,Salary,Purchase,36359.98,INR,Grocery,International,Completed,0
+TXN-4379453,2024-09-17,Credit Card,Withdrawal,58115.55,INR,Grocery,International,Completed,0
+TXN-2248539,2023-03-16,NRE,Fee,136476.2,INR,Online Shopping,West,Completed,0
+TXN-1500044,2023-03-22,Salary,Fee,45800.67,INR,Travel,North,Completed,0
+TXN-3036396,2024-06-09,NRE,Deposit,37740.86,INR,Education,North,Completed,0
+TXN-5133229,2024-05-01,Current,Deposit,90440.38,INR,Healthcare,East,Completed,0
+TXN-5668307,2024-06-05,Salary,Fee,35255.23,INR,Entertainment,East,Completed,0
+TXN-2407757,2024-08-08,Current,Refund,13352.04,INR,Grocery,International,Completed,0
+TXN-3110045,2024-05-27,NRE,Transfer,55393.91,INR,Dining,International,Completed,0
+TXN-1155158,2023-03-12,Salary,Withdrawal,33550.52,INR,Utilities,International,Completed,0
+TXN-1418865,2023-01-25,Current,Purchase,112443.71,INR,Grocery,North,Completed,0
+TXN-2563861,2023-03-09,Current,Purchase,127602.61,INR,Travel,South,Completed,0
+TXN-7866848,2023-06-08,NRE,Transfer,26811.04,INR,Travel,Central,Completed,1
+TXN-9377933,2024-02-16,NRE,Transfer,29128.32,INR,Education,East,Completed,0
+TXN-4781482,2024-06-06,Current,Withdrawal,53908.99,INR,Healthcare,Central,Completed,0
+TXN-8068587,2024-05-25,NRE,Withdrawal,98204.08,INR,Fuel,West,Completed,0
+TXN-3447970,2024-01-14,NRE,Deposit,130935.36,INR,Fuel,North,Pending,0
+TXN-4886610,2023-10-02,Current,Deposit,7979.12,INR,Dining,West,Completed,0
+TXN-2055317,2023-11-23,Salary,Fee,49343.23,INR,Online Shopping,North,Completed,0
+TXN-3678427,2024-09-22,NRE,Deposit,22971.96,INR,Entertainment,East,Completed,0
+TXN-1375289,2023-03-10,Credit Card,Deposit,29956.04,INR,Entertainment,West,Completed,0
+TXN-4881825,2024-02-21,Current,Fee,144810.53,INR,Entertainment,West,Completed,0
+TXN-4019770,2024-02-04,Salary,Deposit,11419.72,INR,Utilities,South,Completed,0
+TXN-7046864,2024-04-02,Salary,Withdrawal,56336.36,INR,Dining,International,Completed,0
+TXN-9420912,2024-10-06,Current,Fee,111162.09,INR,Education,West,Completed,0
+TXN-8228890,2023-01-29,Salary,Purchase,45506.24,INR,Dining,South,Failed,0
+TXN-8988379,2023-10-10,Current,Refund,29705.9,INR,Electronics,West,Completed,0
+TXN-4982797,2023-06-26,Salary,Withdrawal,63956.58,INR,Education,North,Completed,0
+TXN-7372173,2023-08-03,Savings,Deposit,71869.86,INR,Fuel,Central,Completed,0
+TXN-7376135,2024-01-10,Salary,Purchase,4631.26,INR,Entertainment,International,Completed,0
+TXN-4757514,2024-10-22,Salary,Refund,102779.86,INR,Online Shopping,North-East,Completed,0
+TXN-9217591,2023-08-30,Savings,Withdrawal,143470.35,INR,Grocery,North,Failed,0
+TXN-5573397,2023-01-09,Salary,Withdrawal,122436.82,INR,Travel,West,Completed,0
+TXN-1061886,2023-11-12,Credit Card,Deposit,85226.23,INR,Dining,Central,Completed,0
+TXN-9331749,2024-01-21,Savings,Deposit,104434.36,INR,Utilities,West,Pending,0
+TXN-3462691,2023-05-25,Salary,Refund,52272.59,INR,Education,West,Completed,0
+TXN-9682376,2024-05-01,Savings,Refund,18238.09,INR,Fuel,North,Completed,0
+TXN-3451686,2024-08-03,Salary,Transfer,61638.19,INR,Electronics,International,Completed,0
+TXN-4449802,2023-02-15,Credit Card,Transfer,143848.04,INR,Online Shopping,North,Completed,0
+TXN-4128711,2023-11-09,Current,Transfer,97666.11,INR,Entertainment,East,Completed,0
+TXN-1738172,2024-05-30,Credit Card,Fee,45774.42,INR,Electronics,International,Completed,0
+TXN-1751633,2023-02-14,NRE,Refund,135883.84,INR,,North-East,Completed,0
+TXN-5251702,2023-04-27,Credit Card,Refund,149890.59,INR,Healthcare,North,Completed,0
+TXN-5621286,2024-06-18,NRE,Fee,143314.94,INR,Healthcare,East,Completed,0
+TXN-6388944,2023-08-05,Credit Card,Purchase,83394.43,INR,Entertainment,North,Completed,0
+TXN-3920782,2023-10-19,Current,Purchase,105415.64,INR,Fuel,North,Completed,0
+TXN-2903286,2024-10-19,NRE,Transfer,130281.9,INR,Dining,West,Completed,0
+TXN-3779483,2023-06-30,Savings,Deposit,137364.65,INR,Education,East,Completed,0
+TXN-3937746,2023-04-06,Savings,Withdrawal,26704.33,INR,Dining,East,Completed,0
+TXN-3991990,2024-03-20,Credit Card,Transfer,118298.94,INR,Fuel,East,Failed,0
+TXN-4449946,2023-11-24,Credit Card,Fee,147118.42,INR,Education,East,Completed,0
+TXN-2820207,2023-07-21,Savings,Purchase,60434.71,INR,Fuel,East,Failed,0
+TXN-4663012,2023-01-22,Savings,Refund,136899.74,INR,Travel,International,Completed,0
+TXN-2126790,2023-04-20,Savings,Withdrawal,75731.06,INR,Healthcare,Central,Completed,0
+TXN-8653150,2023-12-20,NRE,Refund,65754.64,INR,Entertainment,Central,Pending,0
+TXN-3304973,2023-10-05,Current,Fee,51281.28,INR,Healthcare,International,Failed,0
+TXN-9977242,2024-10-18,Savings,Refund,12778.65,INR,Entertainment,International,Completed,0
+TXN-9220931,2023-09-27,Current,Transfer,69786.33,INR,Education,West,Completed,0
+TXN-6407455,2023-07-04,Savings,Transfer,125228.21,INR,Travel,North-East,Completed,0
+TXN-5625229,2024-09-14,Savings,Refund,54034.18,INR,Fuel,Central,Completed,0
+TXN-1900651,2024-07-30,Salary,Withdrawal,108237.42,INR,Healthcare,East,Completed,0
+TXN-9618524,2023-05-14,Salary,Withdrawal,141910.23,INR,Healthcare,North,Completed,0
+TXN-9457719,2024-06-06,Savings,Deposit,1456.68,INR,Entertainment,Central,Pending,0
+TXN-6619927,2024-11-27,NRE,Transfer,42824.78,INR,Travel,East,Completed,0
+TXN-1943601,2023-09-06,NRE,Deposit,50937.13,INR,Dining,Central,Completed,0
+TXN-9404662,2023-05-01,Credit Card,Withdrawal,26450.27,INR,Fuel,Central,Pending,0
+TXN-5108459,2024-12-27,Credit Card,Transfer,136741.6,INR,Electronics,International,Completed,0
+TXN-1997949,2024-12-19,Current,Transfer,135057.22,INR,Healthcare,North,Completed,0
+TXN-2432293,2024-02-20,Salary,Transfer,43032.77,INR,Education,South,Completed,0
+TXN-5944247,2024-09-24,NRE,Purchase,94798.75,INR,Education,East,Completed,0
+TXN-5317791,2023-11-18,Credit Card,Fee,51577.75,INR,Online Shopping,South,Completed,0
+TXN-6066112,2023-08-16,Current,Refund,66139.1,INR,Entertainment,East,Completed,0
+TXN-3839781,2024-04-10,Current,Transfer,95597.2,INR,Travel,West,Completed,0
+TXN-8036810,2024-06-13,NRE,Purchase,11124.13,INR,Entertainment,Central,Completed,1
+TXN-6220444,2024-10-05,Credit Card,Fee,7034.51,INR,Online Shopping,South,Completed,0
+TXN-2359686,2023-12-26,NRE,Purchase,49770.37,INR,Utilities,East,Failed,0
+TXN-3579517,2024-02-28,Credit Card,Purchase,72902.18,INR,Electronics,West,Completed,0
+TXN-7675500,2024-03-22,Savings,Fee,1763.41,INR,,North-East,Completed,0
+TXN-7867299,2023-04-19,Current,Refund,59423.03,INR,Utilities,South,Completed,0
+TXN-9046408,2023-03-26,Salary,Withdrawal,114411.51,INR,Dining,Central,Completed,0
+TXN-1036705,2023-05-13,Current,Purchase,37509.65,INR,Healthcare,North,Completed,0
+TXN-4664350,2023-10-25,NRE,Fee,41206.37,INR,Electronics,West,Completed,0
+TXN-9057056,2024-03-13,Salary,Purchase,55108.93,INR,Dining,West,Completed,0
+TXN-4853010,2023-01-29,NRE,Transfer,53976.56,INR,Fuel,South,Completed,0
+TXN-3106946,2024-07-23,Savings,Transfer,127389.2,INR,Fuel,West,Completed,1
+TXN-5216828,2023-11-06,Current,Withdrawal,89634.64,INR,Travel,International,Completed,0
+TXN-7394512,2023-07-22,Current,Withdrawal,50474.01,INR,Electronics,Central,Pending,0
+TXN-8811111,2024-07-24,NRE,Purchase,76072.68,INR,Grocery,East,Completed,0
+TXN-6494810,2024-08-30,Salary,Deposit,37055.9,INR,Dining,East,Completed,0
+TXN-9659995,2023-08-21,NRE,Fee,5761.42,INR,Healthcare,North-East,Completed,0
+TXN-3265614,2024-05-10,NRE,Purchase,23804.99,INR,Fuel,Central,Completed,0
+TXN-8358981,2023-03-21,Savings,Purchase,143574.75,INR,Fuel,West,Completed,0
+TXN-8098939,2024-08-15,NRE,Fee,46669.78,INR,Utilities,International,Completed,0
+TXN-5769678,2024-12-29,NRE,Refund,10389.15,INR,Dining,North-East,Completed,0
+TXN-8595784,2024-07-26,Savings,Purchase,113023.93,INR,Travel,North-East,Pending,0
+TXN-7589801,2023-05-09,NRE,Withdrawal,92496.29,INR,Healthcare,North,Completed,0
+TXN-9670008,2023-04-12,Savings,Fee,49795.69,INR,Fuel,South,Completed,0
+TXN-6112301,2024-03-20,NRE,Purchase,4517.13,INR,Travel,North-East,Pending,0
+TXN-9100740,2024-12-18,Salary,Fee,8238.31,INR,Dining,Central,Completed,0
+TXN-9054452,2024-08-13,Credit Card,Transfer,95690.91,INR,Utilities,Central,Pending,0
+TXN-6309736,2024-08-16,Current,Deposit,65939.06,INR,Healthcare,West,Completed,0
+TXN-3959228,2023-12-13,Current,Deposit,38103.73,INR,Healthcare,International,Completed,0
+TXN-5919070,2023-05-17,NRE,Deposit,90356.99,INR,Utilities,Central,Completed,0
+TXN-5213435,2024-04-27,Current,Withdrawal,103470.85,INR,Electronics,North-East,Completed,0
+TXN-2987398,2023-05-02,Current,Purchase,66235.05,INR,Online Shopping,International,Completed,0
+TXN-2413416,2024-05-30,Current,Fee,43370.95,INR,Education,North,Completed,0
+TXN-6777145,2023-12-27,NRE,Withdrawal,29335.32,INR,Electronics,North-East,Completed,0
+TXN-6281000,2023-08-26,NRE,Withdrawal,131649.99,INR,Dining,Central,Completed,0
+TXN-1981363,2023-09-22,Current,Refund,80158.53,INR,Dining,West,Failed,0
+TXN-3036111,2023-12-09,Current,Transfer,132463.74,INR,,International,Completed,0
+TXN-8663240,2024-12-17,NRE,Withdrawal,34972.64,INR,Online Shopping,International,Completed,0
+TXN-1196709,2023-02-18,Savings,Refund,88956.09,INR,Online Shopping,West,Completed,0
+TXN-7759841,2024-06-06,NRE,Fee,87495.66,INR,Grocery,East,Completed,0
+TXN-6280123,2024-12-09,Current,Deposit,4404.58,INR,Online Shopping,Central,Completed,0
+TXN-1443987,2024-02-09,Current,Transfer,45236.82,INR,Fuel,International,Completed,0
+TXN-5671385,2024-03-07,Savings,Fee,60038.22,INR,Electronics,International,Completed,0
+TXN-3291859,2024-05-03,Savings,Transfer,79086.68,INR,Grocery,International,Completed,0
+TXN-4829799,2023-06-20,NRE,Fee,17824.87,INR,Travel,East,Completed,0
+TXN-7105664,2023-04-23,Current,Transfer,46065.75,INR,Dining,International,Completed,0
+TXN-2824779,2023-09-03,Current,Fee,134430.94,INR,Utilities,North-East,Completed,0
+TXN-5463732,2023-01-02,Credit Card,Fee,72734.6,INR,Travel,South,Pending,0
+TXN-7981833,2024-12-13,Credit Card,Refund,36656.27,INR,Utilities,International,Completed,0
+TXN-7837764,2023-07-08,Credit Card,Purchase,137900.53,INR,Entertainment,East,Completed,0
+TXN-2453810,2024-05-09,Savings,Purchase,129326.14,INR,Education,International,Completed,0
+TXN-2187785,2024-07-14,Current,Fee,97539.0,INR,Dining,South,Completed,0
+TXN-4065426,2024-05-29,Salary,Withdrawal,127202.64,INR,Dining,International,Completed,0
+TXN-9491925,2023-08-26,Credit Card,Withdrawal,20131.22,INR,Dining,South,Completed,0
+TXN-9435325,2024-05-11,Current,Fee,94034.85,INR,Electronics,North-East,Completed,0
+TXN-6800522,2023-04-30,Salary,Transfer,106273.71,INR,Online Shopping,North-East,Failed,0
+TXN-3396782,2024-08-05,Current,Refund,43882.31,INR,Education,East,Completed,0
+TXN-2888874,2024-02-13,NRE,Refund,32953.31,INR,Online Shopping,West,Completed,0
+TXN-2222613,2024-03-12,Salary,Transfer,58664.49,INR,Fuel,Central,Completed,0
+TXN-4632102,2023-04-13,Salary,Purchase,49045.5,INR,Fuel,South,Completed,0
+TXN-9832622,2024-02-04,Current,Fee,57754.25,INR,Education,North-East,Completed,0
+TXN-4906630,2023-10-07,Credit Card,Withdrawal,120514.04,INR,Dining,South,Pending,0
+TXN-5777953,2023-12-10,Current,Refund,81403.92,INR,Education,West,Pending,0
+TXN-7591038,2024-03-21,Savings,Deposit,39832.34,INR,,International,Completed,0
+TXN-4927888,2024-03-23,Credit Card,Refund,69158.53,INR,Electronics,South,Completed,0
+TXN-3873848,2024-01-16,Salary,Purchase,101563.76,INR,Travel,North-East,Completed,0
+TXN-6895318,2024-12-05,Credit Card,Withdrawal,141686.21,INR,Education,Central,Completed,0
+TXN-8968922,2024-08-13,Credit Card,Fee,41451.47,INR,Grocery,West,Completed,0
+TXN-3407129,2024-05-04,Salary,Purchase,27500.37,INR,Fuel,Central,Pending,0
+TXN-9251761,2024-06-05,NRE,Deposit,71318.58,INR,Grocery,North-East,Completed,0
+TXN-7432946,2024-03-10,Savings,Transfer,103597.72,INR,Dining,South,Completed,0
+TXN-9078875,2023-10-25,NRE,Transfer,74461.02,INR,Online Shopping,North-East,Completed,0
+TXN-7046049,2024-04-23,Salary,Deposit,28980.44,INR,Entertainment,East,Completed,0
+TXN-5942378,2024-04-03,Salary,Withdrawal,34000.12,INR,Fuel,North,Completed,0
+TXN-6916414,2024-07-01,NRE,Transfer,26869.02,INR,Online Shopping,West,Pending,1
+TXN-4770426,2023-08-04,Current,Deposit,81295.11,INR,Utilities,International,Completed,0
+TXN-3001522,2023-03-09,Credit Card,Purchase,52843.26,INR,Dining,International,Completed,0
+TXN-9149590,2024-04-19,Credit Card,Transfer,85961.64,INR,Utilities,South,Completed,0
+TXN-5619993,2024-06-29,NRE,Purchase,21290.74,INR,Grocery,North,Completed,0
+TXN-8240335,2023-08-08,Savings,Deposit,17697.9,INR,Utilities,East,Completed,1
+TXN-5672907,2023-06-13,Savings,Transfer,141923.07,INR,Entertainment,North-East,Completed,0
+TXN-2773124,2023-06-30,Savings,Fee,94937.68,INR,Grocery,North-East,Completed,0
+TXN-5342134,2024-02-26,Salary,Transfer,26969.77,INR,Grocery,West,Completed,0
+TXN-9777496,2024-09-27,NRE,Purchase,66342.1,INR,Entertainment,International,Completed,0
+TXN-7228015,2023-09-20,Current,Purchase,2175.02,INR,Utilities,South,Completed,0
+TXN-6849326,2023-04-30,Salary,Refund,9941.87,INR,Travel,West,Completed,0
+TXN-8358596,2023-12-14,Salary,Fee,85799.47,INR,Dining,East,Completed,0
+TXN-2145145,2024-11-27,Credit Card,Refund,30930.13,INR,Education,International,Completed,0
+TXN-9615976,2023-12-15,Current,Transfer,40493.4,INR,Healthcare,North,Pending,0
+TXN-8703217,2023-01-27,Credit Card,Purchase,84073.89,INR,Entertainment,Central,Failed,0
+TXN-1770942,2024-06-02,Savings,Refund,70736.02,INR,Travel,North-East,Completed,0
+TXN-5579245,2024-03-21,Credit Card,Refund,31783.06,INR,Education,West,Completed,0
+TXN-6540784,2024-03-03,Current,Purchase,63309.02,INR,Utilities,South,Completed,0
+TXN-2429901,2023-07-07,Current,Withdrawal,73141.43,INR,Dining,South,Completed,0
+TXN-4791508,2023-10-26,Savings,Deposit,53670.52,INR,Electronics,East,Completed,0
+TXN-2801805,2024-12-09,Salary,Purchase,124288.49,INR,Utilities,North-East,Completed,0
+TXN-4808727,2023-02-13,Salary,Transfer,140813.12,INR,Travel,International,Completed,0
+TXN-1337291,2023-11-27,Savings,Transfer,134860.45,INR,Electronics,International,Completed,0
+TXN-6613954,2023-07-18,Savings,Purchase,68677.91,INR,Grocery,International,Completed,1
+TXN-3104420,2023-04-30,Credit Card,Purchase,36880.28,INR,Education,East,Completed,0
+TXN-9415393,2024-07-23,Savings,Deposit,75837.54,INR,Education,East,Completed,0
+TXN-7159013,2024-09-14,NRE,Withdrawal,31106.52,INR,Utilities,West,Completed,0
+TXN-8684062,2024-10-13,Salary,Refund,105310.3,INR,Electronics,International,Completed,0
+TXN-9127395,2023-11-09,Credit Card,Transfer,105341.56,INR,Grocery,East,Completed,0
+TXN-1911760,2023-10-16,Current,Deposit,29371.45,INR,Entertainment,South,Completed,0
+TXN-9286492,2023-04-10,Salary,Refund,26344.79,INR,Electronics,East,Completed,0
+TXN-3813973,2023-07-28,Salary,Refund,23118.2,INR,Grocery,West,Completed,0
+TXN-1299194,2024-02-24,NRE,Transfer,105044.01,INR,Utilities,North,Completed,0
+TXN-9961329,2023-11-26,Savings,Fee,137374.1,INR,Electronics,West,Failed,0
+TXN-6411199,2024-10-09,Current,Purchase,147331.17,INR,Travel,International,Completed,0
+TXN-7502569,2023-05-03,NRE,Deposit,59573.08,INR,Utilities,Central,Completed,0
+TXN-3831374,2023-11-08,Credit Card,Purchase,10303.5,INR,Travel,East,Completed,0
+TXN-8762948,2023-07-17,NRE,Withdrawal,38871.38,INR,Online Shopping,East,Completed,0
+TXN-4513247,2024-03-02,Current,Refund,3108.42,INR,Online Shopping,Central,Completed,0
+TXN-5640748,2023-09-28,NRE,Deposit,24353.37,INR,Grocery,South,Pending,0
+TXN-8848934,2023-06-07,Current,Transfer,93953.6,INR,Electronics,West,Completed,0
+TXN-6649633,2023-01-26,Current,Refund,44779.23,INR,Fuel,Central,Completed,0
+TXN-2560696,2023-02-08,NRE,Withdrawal,41226.07,INR,Education,East,Completed,0
+TXN-5852927,2023-11-06,Credit Card,Deposit,106681.72,INR,Electronics,Central,Completed,0
+TXN-8211231,2023-05-18,Current,Fee,126876.03,INR,Grocery,Central,Completed,0
+TXN-8596642,2023-07-07,Savings,Deposit,41885.21,INR,Healthcare,West,Completed,0
+TXN-3998758,2023-04-19,Credit Card,Withdrawal,126962.0,INR,Entertainment,North,Pending,0
+TXN-1058692,2024-01-14,Salary,Refund,137253.15,INR,Entertainment,West,Completed,0
+TXN-6089792,2023-10-25,Credit Card,Deposit,89148.07,INR,Grocery,Central,Pending,0
+TXN-5736064,2024-07-29,Savings,Fee,4768.22,INR,Utilities,North-East,Pending,0
+TXN-5648455,2023-03-16,Savings,Deposit,76620.93,INR,Travel,South,Completed,0
+TXN-7876191,2023-03-02,Savings,Fee,70075.1,INR,Entertainment,South,Completed,0
+TXN-9805657,2023-02-07,Current,Fee,71431.84,INR,Dining,East,Completed,0
+TXN-9640714,2024-11-02,NRE,Deposit,122773.62,INR,Entertainment,North-East,Completed,0
+TXN-3365627,2023-01-29,Credit Card,Withdrawal,9780.61,INR,Education,International,Completed,0
+TXN-7078953,2024-01-13,Savings,Purchase,85203.86,INR,Healthcare,International,Completed,0
+TXN-8239154,2024-05-29,Savings,Refund,85372.05,INR,Utilities,East,Completed,0
+TXN-3533559,2024-01-17,Credit Card,Purchase,15902.22,INR,Electronics,East,Pending,0
+TXN-9294621,2024-12-30,NRE,Fee,123608.92,INR,Travel,International,Completed,0
+TXN-1754743,2023-04-23,NRE,Deposit,112334.67,INR,Education,North,Completed,0
+TXN-4848581,2023-06-18,NRE,Purchase,76721.87,INR,,North-East,Pending,0
+TXN-2354264,2023-02-03,Savings,Transfer,55696.3,INR,Online Shopping,Central,Completed,0
+TXN-8852429,2023-07-05,Current,Purchase,39595.51,INR,Grocery,Central,Completed,0
+TXN-1741860,2023-02-08,Credit Card,Withdrawal,59797.36,INR,Entertainment,Central,Completed,0
+TXN-8129253,2024-09-07,NRE,Withdrawal,70600.91,INR,Electronics,Central,Pending,0
+TXN-8207149,2024-09-07,Salary,Transfer,3461.14,INR,Entertainment,West,Completed,0
+TXN-8061065,2024-01-04,Current,Refund,134425.53,INR,,Central,Completed,0
+TXN-3787534,2023-11-05,Salary,Deposit,32593.94,INR,,North,Completed,0
+TXN-6697447,2024-11-19,Current,Transfer,102108.23,INR,Grocery,East,Completed,0
+TXN-2767353,2024-10-11,NRE,Deposit,8709.2,INR,Online Shopping,East,Completed,0
+TXN-3396379,2023-04-11,Credit Card,Refund,113934.16,INR,Healthcare,Central,Completed,0
+TXN-3473670,2024-12-18,NRE,Deposit,86354.03,INR,Travel,North,Completed,0
+TXN-2613662,2024-07-02,Savings,Purchase,17349.54,INR,Online Shopping,North-East,Completed,0
+TXN-1323037,2023-01-19,NRE,Transfer,111625.81,INR,Utilities,South,Completed,0
+TXN-1056860,2023-12-19,Savings,Fee,18349.0,INR,Education,North-East,Completed,0
+TXN-1959568,2023-11-21,Salary,Transfer,103610.11,INR,Healthcare,West,Completed,0
+TXN-6262151,2024-04-06,Credit Card,Purchase,36628.77,INR,Electronics,South,Completed,0
+TXN-3789587,2023-04-22,Credit Card,Purchase,138277.67,INR,Utilities,East,Completed,0
+TXN-9373304,2023-11-10,Savings,Transfer,122581.08,INR,Healthcare,North-East,Completed,0
+TXN-4579484,2023-04-19,NRE,Refund,125369.92,INR,Education,East,Completed,0
+TXN-9934975,2024-11-05,Savings,Fee,109540.71,INR,Utilities,East,Completed,0
+TXN-1100393,2024-06-15,Current,Purchase,78184.4,INR,Healthcare,East,Completed,0
+TXN-7887019,2024-04-13,Savings,Fee,35368.14,INR,Grocery,International,Completed,0
+TXN-3192086,2024-07-15,Current,Deposit,72846.33,INR,Fuel,North-East,Completed,0
+TXN-9798092,2023-10-29,Current,Transfer,101187.03,INR,Online Shopping,International,Completed,0
+TXN-1788985,2024-05-02,Salary,Deposit,32969.71,INR,Online Shopping,East,Completed,0
+TXN-6620225,2023-06-04,Salary,Fee,132815.0,INR,Dining,South,Completed,0
+TXN-7701120,2023-03-30,NRE,Transfer,89636.94,INR,Dining,West,Pending,0
+TXN-7308301,2024-10-23,Credit Card,Purchase,53662.15,INR,Grocery,International,Completed,0
+TXN-8965396,2023-06-29,Current,Transfer,68073.51,INR,Grocery,Central,Completed,0
+TXN-5740479,2023-11-24,Credit Card,Purchase,93397.15,INR,Education,Central,Completed,0
+TXN-5311072,2023-04-30,Current,Refund,137705.7,INR,Electronics,North,Completed,0
+TXN-5232781,2024-07-02,NRE,Deposit,114961.29,INR,Dining,North,Completed,0
+TXN-5864909,2023-07-17,Credit Card,Transfer,1098.49,INR,Dining,West,Completed,0
+TXN-3005987,2024-02-18,NRE,Deposit,21188.13,INR,Education,International,Completed,0
+TXN-3097860,2024-11-21,Salary,Transfer,120689.88,INR,Fuel,North,Completed,0
+TXN-7654555,2024-03-23,NRE,Refund,143747.98,INR,Grocery,South,Completed,0
+TXN-3547267,2023-07-24,NRE,Transfer,125175.12,INR,Grocery,West,Completed,0
+TXN-8552066,2024-12-20,Savings,Refund,116641.98,INR,Online Shopping,Central,Pending,0
+TXN-6228205,2023-02-10,NRE,Refund,6287.55,INR,Dining,West,Completed,0
+TXN-7326676,2024-02-14,Current,Refund,106193.64,INR,Education,West,Completed,0
+TXN-5480182,2023-07-14,NRE,Withdrawal,139624.54,INR,Fuel,Central,Pending,0
+TXN-2369954,2024-10-16,Savings,Purchase,111584.51,INR,,South,Completed,0
+TXN-1682608,2023-09-25,Current,Withdrawal,103437.5,INR,Electronics,International,Completed,0
+TXN-7468736,2024-12-25,Current,Fee,136421.35,INR,Grocery,South,Completed,0
+TXN-2538230,2024-03-08,Credit Card,Withdrawal,126622.51,INR,Utilities,South,Completed,0
+TXN-1335300,2024-09-06,Salary,Deposit,86310.46,INR,Utilities,North,Completed,0
+TXN-3573167,2023-11-02,Current,Deposit,30174.6,INR,Utilities,South,Completed,0
+TXN-2281503,2024-10-02,Current,Refund,21682.54,INR,Travel,Central,Completed,0
+TXN-4053107,2024-03-07,Savings,Transfer,131631.05,INR,Grocery,West,Completed,0
+TXN-7996026,2024-09-25,Salary,Purchase,130250.43,INR,Utilities,Central,Completed,0
+TXN-9523589,2024-05-30,Savings,Purchase,97674.23,INR,Electronics,North,Completed,0
+TXN-6210009,2024-11-01,Savings,Deposit,139285.33,INR,Utilities,North-East,Completed,0
+TXN-2722062,2023-01-20,Savings,Deposit,83812.8,INR,Grocery,North,Completed,0
+TXN-5235328,2023-06-04,Credit Card,Purchase,50631.65,INR,Dining,North-East,Completed,0
+TXN-1711955,2024-06-11,Savings,Fee,30477.68,INR,Entertainment,East,Completed,0
+TXN-4286287,2023-08-08,NRE,Purchase,10126.78,INR,,Central,Completed,0
+TXN-6822346,2024-10-25,Savings,Deposit,61701.04,INR,Grocery,East,Completed,0
+TXN-3825837,2024-02-29,NRE,Purchase,4319934.66,INR,Grocery,South,Completed,0
+TXN-2524217,2024-02-16,Current,Transfer,105077.06,INR,Entertainment,North-East,Failed,0
+TXN-5017441,2024-10-18,Credit Card,Refund,84372.05,INR,Electronics,East,Completed,0
+TXN-3900863,2023-03-29,NRE,Transfer,147094.96,INR,Electronics,International,Completed,0
+TXN-7650372,2024-05-29,Current,Fee,62845.71,INR,Grocery,South,Completed,0
+TXN-4091786,2023-04-16,Credit Card,Purchase,64792.92,INR,Healthcare,North-East,Completed,0
+TXN-4350410,2024-10-19,Current,Fee,131518.11,INR,Utilities,North-East,Completed,0
+TXN-5990409,2023-11-07,Credit Card,Purchase,29588.23,INR,Grocery,North,Completed,0
+TXN-7465159,2023-05-27,Current,Refund,78422.71,INR,Grocery,East,Completed,0
+TXN-9974625,2024-12-29,Salary,Purchase,116274.94,INR,Electronics,North,Completed,0
+TXN-3897092,2023-10-30,Salary,Fee,81486.61,INR,Online Shopping,Central,Completed,0
+TXN-5770859,2024-02-02,Credit Card,Purchase,92584.59,INR,Utilities,North-East,Completed,0
+TXN-5768000,2023-12-01,NRE,Transfer,1839.1,INR,Dining,South,Completed,0
+TXN-1119529,2023-03-09,NRE,Refund,146545.58,INR,Online Shopping,North-East,Completed,0
+TXN-3444615,2024-05-12,NRE,Withdrawal,86289.08,INR,Utilities,East,Completed,0
+TXN-6327069,2023-06-25,Salary,Refund,62306.16,INR,Travel,North,Completed,0
+TXN-8491453,2024-10-31,Current,Transfer,135706.98,INR,Education,International,Completed,0
+TXN-4223509,2023-12-27,NRE,Withdrawal,34284.47,INR,Education,North,Pending,0
+TXN-4345783,2023-02-27,Savings,Fee,131426.97,INR,Education,West,Completed,0
+TXN-8831821,2023-12-30,Savings,Refund,46165.75,INR,Utilities,International,Completed,0
+TXN-3937578,2023-04-14,NRE,Refund,46454.2,INR,Grocery,International,Completed,0
+TXN-4335710,2023-10-17,Credit Card,Transfer,1211710.0,INR,Education,North,Completed,0
+TXN-7461306,2023-12-19,Credit Card,Purchase,146576.69,INR,Entertainment,South,Completed,0
+TXN-3339598,2023-06-08,Credit Card,Fee,90370.43,INR,Travel,Central,Completed,0
+TXN-2744864,2023-09-04,Current,Purchase,11614.39,INR,Utilities,West,Completed,0
+TXN-1839500,2024-04-22,NRE,Refund,9586.32,INR,Fuel,North-East,Completed,0
+TXN-2447560,2023-11-21,Salary,Fee,144608.65,INR,Grocery,West,Completed,0
+TXN-9418776,2023-02-23,Credit Card,Purchase,116385.57,INR,Education,North,Completed,0
+TXN-6501516,2023-12-04,Current,Purchase,26990.41,INR,Fuel,North,Failed,0
+TXN-4625259,2023-08-27,Current,Fee,96733.07,INR,Electronics,West,Completed,0
+TXN-9045616,2024-02-03,Credit Card,Transfer,62328.65,INR,,International,Completed,0
+TXN-8323009,2024-04-21,Savings,Transfer,90363.23,INR,Education,South,Completed,0
+TXN-1388835,2023-08-01,Current,Transfer,126164.66,INR,Education,International,Completed,0
+TXN-1301834,2024-04-01,Savings,Deposit,48132.77,INR,Education,West,Pending,0
+TXN-3925865,2024-08-05,Salary,Refund,87194.78,INR,Travel,North-East,Completed,0
+TXN-5668727,2023-08-05,Current,Withdrawal,127474.62,INR,Utilities,North,Completed,0
+TXN-1004412,2024-07-23,NRE,Withdrawal,62891.77,INR,Utilities,Central,Completed,0
+TXN-5742809,2024-04-22,NRE,Fee,117445.81,INR,Grocery,West,Completed,0
+TXN-6156637,2024-02-12,NRE,Transfer,117625.44,INR,Travel,International,Completed,0
+TXN-1186715,2023-03-26,Current,Transfer,9722.42,INR,Electronics,North,Completed,0
+TXN-1050775,2023-09-25,Savings,Deposit,145578.28,INR,Electronics,International,Completed,0
+TXN-2999889,2023-07-09,Salary,Deposit,56619.87,INR,Entertainment,International,Completed,0
+TXN-9721168,2023-11-13,Salary,Withdrawal,63966.75,INR,Electronics,Central,Completed,0
+TXN-6646278,2024-01-12,Savings,Purchase,49764.75,INR,Utilities,South,Completed,1
+TXN-6903560,2023-01-30,Current,Purchase,128125.61,INR,Utilities,North-East,Completed,0
+TXN-3796314,2024-09-11,Savings,Purchase,21876.94,INR,,West,Completed,0
+TXN-7460699,2024-03-04,Salary,Fee,71281.49,INR,Electronics,International,Pending,0
+TXN-8994269,2024-08-16,NRE,Fee,81924.58,INR,Grocery,South,Completed,0
+TXN-2159714,2024-05-22,Salary,Fee,143078.76,INR,Utilities,South,Completed,0
+TXN-6754397,2024-11-07,NRE,Transfer,40319.21,INR,Education,International,Completed,0
+TXN-5332301,2023-08-24,Savings,Purchase,84785.97,INR,Utilities,South,Completed,0
+TXN-6919529,2023-07-30,Savings,Fee,39791.91,INR,Grocery,West,Completed,0
+TXN-5395948,2023-02-11,Credit Card,Fee,139961.2,INR,Entertainment,North,Completed,0
+TXN-1539376,2023-10-29,Current,Fee,149114.79,INR,Fuel,South,Pending,0
+TXN-3179368,2023-09-29,Credit Card,Fee,32712.43,INR,Electronics,North,Completed,0
+TXN-2405276,2023-05-10,Savings,Purchase,6822.06,INR,Grocery,East,Completed,0
+TXN-1646204,2024-08-12,Salary,Withdrawal,36610.56,INR,Utilities,East,Completed,0
+TXN-4832512,2024-12-11,Salary,Withdrawal,144989.09,INR,Entertainment,International,Failed,0
+TXN-4973122,2023-02-15,Salary,Transfer,35886.52,INR,Entertainment,International,Completed,0
+TXN-1708852,2023-02-05,Salary,Transfer,33864.73,INR,Fuel,East,Failed,0
+TXN-3395334,2024-03-12,Current,Deposit,141395.2,INR,Electronics,West,Completed,0
+TXN-9986171,2024-08-10,Salary,Deposit,81832.43,INR,Healthcare,Central,Completed,0
+TXN-9778658,2024-10-13,NRE,Refund,66726.65,INR,,West,Failed,0
+TXN-6976066,2023-12-23,Savings,Refund,141621.04,INR,Dining,East,Completed,0
+TXN-7750919,2024-11-09,Savings,Withdrawal,73482.56,INR,Entertainment,Central,Completed,0
+TXN-1183816,2024-03-15,Credit Card,Refund,37226.08,INR,Online Shopping,International,Completed,0
+TXN-5053229,2024-11-03,Credit Card,Deposit,45191.86,INR,Travel,West,Completed,0
+TXN-6891257,2024-11-22,Current,Fee,88628.19,INR,Electronics,North,Failed,0
+TXN-9210310,2023-07-28,Savings,Withdrawal,137121.78,INR,Utilities,North,Completed,0
+TXN-3355954,2024-06-23,Savings,Refund,53025.09,INR,Fuel,Central,Completed,0
+TXN-9948574,2023-07-18,NRE,Transfer,134715.88,INR,Grocery,North,Completed,0
+TXN-6627259,2023-10-23,Current,Withdrawal,92626.09,INR,Travel,North-East,Pending,0
+TXN-3568508,2023-12-24,Savings,Deposit,97269.97,INR,Entertainment,North-East,Completed,0
+TXN-4811019,2024-02-10,Savings,Fee,1597.6,INR,Fuel,North-East,Completed,0
+TXN-7413502,2023-03-12,Salary,Purchase,14379.62,INR,,North-East,Pending,0
+TXN-3730232,2023-02-14,Salary,Fee,63302.13,INR,Fuel,East,Pending,0
+TXN-1804840,2023-05-23,Salary,Purchase,53617.28,INR,Fuel,East,Completed,0
+TXN-8536283,2024-03-23,Current,Withdrawal,62314.2,INR,Travel,North-East,Completed,0
+TXN-4826915,2023-06-26,Savings,Deposit,66607.03,INR,Dining,Central,Completed,0
+TXN-8062161,2024-06-08,Savings,Deposit,1707.03,INR,Fuel,North,Completed,0
+TXN-2224953,2023-04-12,Salary,Refund,100411.87,INR,Dining,South,Completed,0
+TXN-9045871,2024-04-05,Salary,Fee,128621.73,INR,Travel,North-East,Completed,0
+TXN-1788387,2023-05-22,NRE,Withdrawal,149725.9,INR,Grocery,South,Completed,0
+TXN-8582741,2024-11-28,Savings,Purchase,127958.25,INR,Fuel,West,Completed,0
+TXN-7587580,2023-01-14,Current,Deposit,67910.89,INR,Healthcare,International,Completed,0
+TXN-3974956,2023-03-30,NRE,Transfer,122578.96,INR,Utilities,North-East,Completed,0
+TXN-8385803,2023-05-18,NRE,Withdrawal,68994.83,INR,Education,West,Completed,0
+TXN-9731739,2023-07-10,Credit Card,Deposit,144222.4,INR,,West,Completed,0
+TXN-5399543,2024-11-14,NRE,Transfer,65180.21,INR,Fuel,South,Completed,0
+TXN-2549043,2024-08-12,Savings,Purchase,136591.77,INR,Travel,West,Completed,0
+TXN-3964016,2024-10-24,Credit Card,Transfer,79020.87,INR,Travel,International,Completed,0
+TXN-6110226,2023-07-02,NRE,Fee,91125.57,INR,Healthcare,East,Completed,0
+TXN-2421441,2024-03-22,Salary,Deposit,102588.99,INR,Education,East,Completed,0
+TXN-5968697,2023-05-01,NRE,Deposit,721.37,INR,Online Shopping,Central,Completed,0
+TXN-7877452,2023-01-16,Current,Purchase,48414.0,INR,Education,North-East,Completed,0
+TXN-7391627,2023-10-17,Credit Card,Transfer,80540.19,INR,Utilities,West,Completed,0
+TXN-9126124,2023-05-17,Current,Purchase,40578.43,INR,Utilities,West,Completed,0
+TXN-5759881,2023-06-28,NRE,Withdrawal,18592.12,INR,Healthcare,Central,Failed,0
+TXN-7208037,2023-12-22,Credit Card,Deposit,117196.18,INR,Entertainment,International,Completed,0
+TXN-3655669,2023-04-17,Salary,Deposit,39503.28,INR,,Central,Completed,0
+TXN-8478366,2024-07-07,NRE,Refund,24210.81,INR,Grocery,North-East,Completed,0
+TXN-8216800,2024-10-02,Current,Transfer,55249.23,INR,,South,Completed,0
+TXN-1653536,2023-01-20,Current,Fee,144933.37,INR,Healthcare,East,Completed,0
+TXN-8582542,2023-03-28,Current,Transfer,140881.74,INR,Entertainment,South,Completed,0
+TXN-8330373,2024-01-18,Credit Card,Deposit,68568.64,INR,Fuel,Central,Completed,0
+TXN-5914379,2023-08-29,NRE,Refund,53500.89,INR,,Central,Completed,0
+TXN-7497073,2024-07-26,Salary,Deposit,146916.35,INR,Healthcare,South,Completed,0
+TXN-3850379,2023-08-23,Current,Refund,5546.83,INR,Education,International,Failed,0
+TXN-3312352,2023-09-27,Salary,Withdrawal,30578.79,INR,Fuel,West,Completed,0
+TXN-5188974,2023-10-08,Salary,Refund,103617.85,INR,,North,Completed,0
+TXN-1067974,2023-11-27,Savings,Refund,139725.64,INR,,International,Pending,0
+TXN-5164034,2024-05-01,Current,Fee,13469.68,INR,Online Shopping,International,Completed,0
+TXN-3689245,2024-06-19,Salary,Purchase,141186.48,INR,Dining,North,Completed,0
+TXN-2768715,2023-10-06,Savings,Fee,30964.0,INR,Utilities,Central,Completed,0
+TXN-6472074,2024-06-16,Credit Card,Transfer,31118.75,INR,Fuel,West,Completed,0
+TXN-8638456,2024-09-13,Credit Card,Withdrawal,77224.02,INR,Electronics,Central,Pending,0
+TXN-6336347,2024-10-20,Savings,Transfer,62243.02,INR,Online Shopping,East,Completed,0
+TXN-1266963,2023-01-28,Savings,Refund,132310.83,INR,Travel,International,Completed,0
+TXN-2693110,2023-04-15,NRE,Transfer,82444.66,INR,Dining,East,Completed,0
+TXN-1149839,2024-05-17,Savings,Fee,133866.68,INR,Grocery,International,Completed,0
+TXN-2102100,2024-10-01,Savings,Fee,34986.86,INR,Grocery,West,Completed,0
+TXN-9990197,2023-03-22,Credit Card,Refund,54867.58,INR,Travel,East,Completed,0
+TXN-3495262,2024-08-17,Current,Purchase,24097.03,INR,Grocery,West,Completed,0
+TXN-8197756,2023-05-13,Salary,Deposit,2152.79,INR,,West,Completed,0
+TXN-2252846,2023-02-02,Savings,Purchase,123880.15,INR,Entertainment,South,Completed,0
+TXN-1112079,2024-06-27,Salary,Transfer,76968.84,INR,Online Shopping,South,Pending,1
+TXN-8699543,2023-12-22,Credit Card,Purchase,83314.8,INR,Healthcare,Central,Completed,0
+TXN-8648816,2024-03-02,Salary,Fee,37111.59,INR,Education,North,Completed,0
+TXN-7378476,2024-08-28,Salary,Withdrawal,19653.52,INR,Online Shopping,North-East,Completed,0
+TXN-8102137,2024-08-18,Salary,Refund,146373.59,INR,Electronics,International,Completed,0
+TXN-5379973,2024-07-25,Salary,Purchase,72977.82,INR,Education,East,Completed,0
+TXN-4609333,2023-08-06,Salary,Transfer,20354.46,INR,Grocery,International,Pending,0
+TXN-5187515,2024-07-10,NRE,Deposit,77257.65,INR,Entertainment,South,Completed,0
+TXN-6300796,2023-02-14,Salary,Transfer,7687913.22,INR,Utilities,North-East,Completed,0
+TXN-8514405,2023-07-17,Savings,Refund,143336.73,INR,Grocery,North-East,Completed,0
+TXN-4758876,2024-09-25,NRE,Refund,67230.32,INR,Education,Central,Completed,0
+TXN-2543308,2024-12-20,Savings,Withdrawal,82844.82,INR,Dining,Central,Completed,0
+TXN-9211569,2023-10-02,Salary,Deposit,6237.21,INR,Utilities,South,Completed,0
+TXN-6431246,2023-03-06,Salary,Fee,11339.35,INR,Fuel,West,Completed,0
+TXN-6392938,2023-06-17,Salary,Purchase,42829.45,INR,Education,East,Completed,0
+TXN-1920589,2024-08-29,NRE,Purchase,13060.25,INR,Online Shopping,South,Completed,0
+TXN-4253217,2024-11-22,Current,Refund,61884.27,INR,Grocery,West,Completed,0
+TXN-8972330,2023-10-02,Credit Card,Fee,79590.9,INR,Education,South,Completed,0
+TXN-4337193,2023-09-17,Credit Card,Transfer,47004.37,INR,Healthcare,North,Completed,0
+TXN-4922037,2023-11-18,Credit Card,Deposit,141432.2,INR,Utilities,West,Completed,0
+TXN-2319468,2024-03-27,Credit Card,Refund,63192.18,INR,Entertainment,International,Completed,0
+TXN-5565039,2023-01-02,Current,Deposit,89047.38,INR,Healthcare,East,Completed,0
+TXN-9572704,2023-12-20,Credit Card,Transfer,109126.76,INR,Healthcare,North,Completed,0
+TXN-5916987,2024-11-25,Credit Card,Refund,111837.18,INR,Utilities,North-East,Completed,0
+TXN-2791146,2023-05-19,Savings,Deposit,99905.12,INR,Education,Central,Completed,0
+TXN-6978351,2024-01-02,Salary,Refund,79197.37,INR,Grocery,West,Completed,0
+TXN-9307379,2024-02-29,Salary,Purchase,117503.87,INR,Fuel,East,Completed,0
+TXN-7224469,2024-12-11,NRE,Transfer,113843.36,INR,,East,Completed,0
+TXN-5690707,2024-06-21,Credit Card,Deposit,50876.87,INR,Utilities,North-East,Completed,0
+TXN-1748300,2024-09-12,Current,Purchase,34004.49,INR,Grocery,East,Completed,0
+TXN-3254264,2024-03-19,NRE,Withdrawal,116641.92,INR,Fuel,International,Pending,0
+TXN-6259658,2024-05-26,Savings,Deposit,13491.27,INR,Fuel,South,Completed,0
+TXN-5122878,2023-10-12,Current,Withdrawal,142168.42,INR,Entertainment,North,Completed,0
+TXN-7977865,2024-10-30,NRE,Refund,41257.72,INR,Online Shopping,North,Completed,0
+TXN-5832012,2024-12-23,Salary,Purchase,36719.08,INR,Entertainment,South,Completed,0
+TXN-1379995,2024-01-26,Credit Card,Fee,38883.8,INR,Grocery,West,Completed,0
+TXN-8894575,2024-01-24,Current,Refund,67356.81,INR,Healthcare,International,Pending,0
+TXN-4016125,2023-09-22,NRE,Refund,137505.1,INR,Education,South,Completed,0
+TXN-5127544,2023-05-01,Savings,Refund,67207.4,INR,Online Shopping,West,Completed,0
+TXN-2562461,2024-07-08,Credit Card,Deposit,60981.94,INR,Travel,Central,Completed,0
+TXN-8981521,2023-10-17,Salary,Purchase,58240.3,INR,Electronics,South,Completed,0
+TXN-8835215,2024-08-27,Current,Withdrawal,2813.06,INR,Travel,West,Completed,0
+TXN-5459490,2023-11-08,Credit Card,Deposit,123997.81,INR,Fuel,West,Completed,0
+TXN-8814469,2024-04-25,Savings,Purchase,114939.72,INR,Entertainment,East,Completed,0
+TXN-3370741,2023-01-07,Salary,Transfer,126428.77,INR,Fuel,South,Completed,0
+TXN-3561510,2024-08-30,Credit Card,Fee,24583.21,INR,Dining,International,Completed,0
+TXN-1993862,2023-10-02,NRE,Deposit,11262.26,INR,Travel,North,Completed,0
+TXN-1540138,2024-02-22,Savings,Fee,1025519.29,INR,Healthcare,West,Completed,0
+TXN-3804597,2023-10-16,Credit Card,Purchase,38003.98,INR,,Central,Completed,0
+TXN-7450129,2024-02-20,NRE,Transfer,36828.98,INR,Utilities,South,Completed,0
+TXN-8533463,2023-03-09,Savings,Fee,141566.11,INR,Healthcare,West,Completed,0
+TXN-5704546,2023-09-16,Salary,Withdrawal,47792.63,INR,Utilities,South,Failed,0
+TXN-6904671,2024-06-27,NRE,Purchase,138408.72,INR,Electronics,West,Completed,0
+TXN-7384508,2024-12-11,Savings,Deposit,96269.16,INR,Entertainment,South,Completed,0
+TXN-1950065,2024-06-08,Savings,Deposit,21767.08,INR,,North-East,Pending,0
+TXN-3705811,2023-06-15,Savings,Deposit,76471.95,INR,Dining,Central,Completed,0
+TXN-1916078,2024-07-27,NRE,Fee,146783.13,INR,Education,North-East,Completed,0
+TXN-7746330,2023-10-27,Savings,Transfer,140474.48,INR,,East,Completed,0
+TXN-1280833,2023-12-31,Credit Card,Fee,122534.36,INR,Education,International,Completed,0
+TXN-6338816,2024-02-01,Credit Card,Fee,101068.49,INR,Healthcare,South,Completed,0
+TXN-9817570,2023-03-13,Salary,Deposit,8965476.87,INR,,Central,Completed,0
+TXN-3229306,2023-05-05,NRE,Withdrawal,35610.71,INR,Electronics,East,Completed,0
+TXN-7712993,2024-02-02,Credit Card,Withdrawal,107478.75,INR,Dining,International,Completed,0
+TXN-3572005,2024-06-08,Credit Card,Fee,119244.84,INR,Entertainment,North,Completed,0
+TXN-7138648,2024-01-12,Savings,Deposit,35123.78,INR,Entertainment,East,Completed,0
+TXN-3932856,2024-04-30,Current,Withdrawal,25452.83,INR,Healthcare,East,Completed,0
+TXN-2434662,2023-08-15,Salary,Transfer,87364.59,INR,Online Shopping,Central,Completed,0
+TXN-2513872,2024-02-02,Savings,Refund,31452.71,INR,Education,West,Failed,0
+TXN-1239237,2023-11-06,Savings,Deposit,40354.8,INR,Fuel,East,Completed,0
+TXN-2419332,2023-09-02,NRE,Purchase,79261.71,INR,Utilities,North,Completed,0
+TXN-5147205,2023-10-19,Current,Withdrawal,17299.28,INR,Travel,West,Completed,0
+TXN-8052280,2024-03-07,Credit Card,Withdrawal,62413.51,INR,Fuel,South,Completed,0
+TXN-1394683,2023-07-27,Credit Card,Purchase,103239.75,INR,Travel,International,Completed,0
+TXN-5539397,2024-04-20,Savings,Withdrawal,118490.64,INR,Travel,International,Completed,0
+TXN-7126003,2023-05-04,Salary,Withdrawal,107877.59,INR,Grocery,East,Completed,0
+TXN-7752247,2023-06-08,Current,Fee,104031.39,INR,Grocery,North-East,Completed,0
+TXN-5925152,2023-04-20,Current,Transfer,37853.87,INR,Electronics,International,Completed,0
+TXN-3232216,2024-06-10,Savings,Fee,53268.17,INR,Healthcare,West,Completed,0
+TXN-8265900,2024-11-21,NRE,Purchase,48153.96,INR,Electronics,East,Completed,0
+TXN-6948737,2024-10-25,NRE,Purchase,67510.21,INR,Healthcare,Central,Completed,0
+TXN-5939664,2024-10-22,Current,Withdrawal,38843.5,INR,Grocery,North,Completed,0
+TXN-1811693,2024-11-14,Current,Deposit,53429.99,INR,Grocery,International,Completed,0
+TXN-7913508,2023-06-16,Current,Transfer,130509.34,INR,,West,Completed,0
+TXN-5684560,2024-07-11,Credit Card,Purchase,88080.81,INR,Entertainment,East,Completed,0
+TXN-7598384,2024-09-26,Credit Card,Transfer,28880.47,INR,Grocery,West,Completed,0
+TXN-2432821,2024-01-22,NRE,Deposit,60344.69,INR,Electronics,West,Completed,0
+TXN-2889723,2023-05-09,NRE,Refund,38675.24,INR,Online Shopping,South,Completed,0
+TXN-2796297,2023-01-24,Savings,Refund,17255.33,INR,Grocery,East,Completed,0
+TXN-9791542,2023-03-18,Current,Deposit,11227.59,INR,Online Shopping,North,Failed,0
+TXN-6684207,2023-04-25,NRE,Purchase,38525.57,INR,Fuel,East,Completed,0
+TXN-3269428,2023-03-20,Credit Card,Transfer,59583.79,INR,Utilities,Central,Completed,0
+TXN-1312904,2024-11-15,Salary,Transfer,93174.46,INR,Online Shopping,South,Completed,0
+TXN-1998279,2023-03-28,Current,Refund,101056.97,INR,Grocery,South,Pending,0
+TXN-6881404,2024-11-10,Salary,Withdrawal,12528.14,INR,Fuel,West,Failed,0
+TXN-3827336,2023-06-12,Credit Card,Purchase,141189.42,INR,Electronics,West,Completed,0
+TXN-2073184,2024-10-26,Current,Withdrawal,86363.45,INR,Electronics,North-East,Completed,0
+TXN-5300188,2024-11-08,NRE,Refund,54592.7,INR,Electronics,North-East,Completed,0
+TXN-3656372,2023-09-27,Current,Purchase,57447.78,INR,Utilities,International,Completed,0
+TXN-8280876,2024-04-10,Current,Fee,30148.43,INR,Fuel,Central,Completed,0
+TXN-5071428,2024-01-13,Credit Card,Deposit,20420.44,INR,Fuel,North-East,Completed,0
+TXN-3882079,2023-03-17,NRE,Refund,120489.65,INR,Entertainment,International,Completed,0
+TXN-7633722,2024-06-10,Salary,Deposit,80173.67,INR,Healthcare,International,Completed,0
+TXN-6426821,2024-09-09,Credit Card,Transfer,60058.75,INR,Healthcare,North-East,Completed,0
+TXN-5554519,2024-03-17,Savings,Refund,58814.19,INR,Education,East,Completed,0
+TXN-5127061,2024-10-14,Current,Refund,78962.91,INR,Online Shopping,North-East,Completed,0
+TXN-3557247,2024-09-02,NRE,Purchase,2228.41,INR,Utilities,North-East,Completed,0
+TXN-6444775,2024-11-01,NRE,Deposit,80098.22,INR,Utilities,North,Completed,0
+TXN-7732197,2023-08-19,Salary,Refund,148587.13,INR,Utilities,West,Completed,0
+TXN-3800272,2024-02-27,Savings,Deposit,96199.06,INR,Dining,North,Completed,0
+TXN-9757111,2024-04-03,Current,Deposit,121922.04,INR,Electronics,East,Completed,0
+TXN-6085653,2024-09-16,Salary,Withdrawal,50066.63,INR,,South,Completed,0
+TXN-2183463,2023-08-13,Credit Card,Fee,126256.79,INR,Fuel,East,Completed,0
+TXN-3198437,2023-12-11,NRE,Deposit,29015.59,INR,Entertainment,International,Completed,0
+TXN-5679565,2024-10-04,Savings,Deposit,31341.65,INR,Grocery,International,Completed,0
+TXN-7593097,2023-06-11,Salary,Deposit,120901.13,INR,Fuel,West,Completed,0
+TXN-1618828,2023-01-31,Savings,Deposit,142474.15,INR,Utilities,North,Completed,0
+TXN-9791822,2024-05-21,Savings,Transfer,10303.13,INR,Utilities,South,Completed,0
+TXN-9680860,2023-02-22,Current,Fee,20755.66,INR,Entertainment,West,Completed,0
+TXN-6785518,2024-02-10,Savings,Purchase,46066.02,INR,Entertainment,Central,Pending,0
+TXN-9069664,2023-09-06,Credit Card,Fee,81552.42,INR,Electronics,West,Completed,0
+TXN-3904978,2024-02-18,Savings,Fee,96250.51,INR,Fuel,East,Completed,0
+TXN-8011928,2024-04-14,Salary,Refund,13630.09,INR,Grocery,Central,Completed,0
+TXN-9572219,2024-02-07,Credit Card,Refund,44359.67,INR,Fuel,North,Failed,0
+TXN-8662735,2023-05-10,Credit Card,Withdrawal,39455.64,INR,Healthcare,South,Completed,0
+TXN-1948302,2024-05-18,Savings,Fee,103543.46,INR,Fuel,North,Completed,0
+TXN-8070797,2024-02-14,Current,Purchase,83548.73,INR,Entertainment,Central,Completed,0
+TXN-1990106,2024-03-14,Credit Card,Deposit,3736.98,INR,Fuel,North-East,Completed,0
+TXN-5459740,2024-02-13,Current,Withdrawal,138896.95,INR,Grocery,West,Completed,0
+TXN-9501580,2023-07-18,NRE,Fee,46254.11,INR,Healthcare,North-East,Completed,0
+TXN-8346117,2024-06-28,Savings,Fee,12930.22,INR,Fuel,South,Completed,0
+TXN-3925960,2023-03-21,Savings,Fee,1609.2,INR,Healthcare,North-East,Completed,0
+TXN-6124245,2024-06-16,Current,Purchase,48834.23,INR,Utilities,International,Completed,0
+TXN-2605368,2023-07-25,NRE,Deposit,92850.48,INR,Online Shopping,North-East,Completed,0
+TXN-9954376,2023-11-08,Current,Purchase,70539.52,INR,Online Shopping,International,Pending,0
+TXN-4021895,2024-10-14,Credit Card,Withdrawal,138417.67,INR,Education,International,Failed,0
+TXN-1237311,2023-12-10,Credit Card,Fee,4032.77,INR,Healthcare,West,Completed,0
+TXN-2656822,2024-04-05,Salary,Purchase,131253.79,INR,Entertainment,Central,Completed,0
+TXN-5486014,2023-11-26,Credit Card,Purchase,46114.08,INR,,Central,Completed,0
+TXN-2154649,2024-08-31,Credit Card,Fee,41750.49,INR,Online Shopping,North-East,Completed,0
+TXN-5848974,2024-02-02,Current,Transfer,9637.78,INR,Education,Central,Completed,0
+TXN-4941119,2023-11-08,NRE,Purchase,144142.76,INR,Utilities,North,Completed,0
+TXN-4759282,2024-06-06,NRE,Purchase,105455.64,INR,,West,Completed,0
+TXN-8175231,2024-06-29,Current,Purchase,93295.75,INR,Electronics,East,Completed,0
+TXN-8680401,2023-01-11,Current,Refund,68030.46,INR,Dining,Central,Completed,0
+TXN-3973053,2024-03-22,Current,Fee,140747.28,INR,Electronics,East,Completed,0
+TXN-7774636,2023-07-22,NRE,Refund,90588.32,INR,Fuel,North,Completed,0
+TXN-3954740,2024-05-19,Savings,Transfer,70986.46,INR,Travel,West,Completed,0
+TXN-1004522,2024-06-05,Credit Card,Fee,9180.76,INR,Travel,Central,Completed,0
+TXN-5419300,2023-05-29,Salary,Withdrawal,52334.6,INR,Electronics,North,Failed,0
+TXN-3507240,2023-09-09,Credit Card,Withdrawal,79256.0,INR,Travel,North-East,Completed,0
+TXN-6865891,2024-12-21,Salary,Deposit,90859.89,INR,Utilities,North-East,Pending,0
+TXN-4104162,2023-02-14,Current,Withdrawal,126414.46,INR,Travel,North-East,Failed,0
+TXN-9888261,2023-10-16,Salary,Deposit,147292.01,INR,Electronics,North-East,Completed,0
+TXN-5248581,2023-05-28,Credit Card,Deposit,131694.82,INR,Fuel,International,Completed,0
+TXN-3661983,2024-08-03,Current,Purchase,112380.68,INR,Healthcare,West,Completed,0
+TXN-2310773,2023-03-05,Savings,Fee,53132.84,INR,Travel,North-East,Pending,0
+TXN-2965156,2023-01-19,Current,Withdrawal,81327.82,INR,Online Shopping,East,Completed,0
+TXN-8837927,2024-10-11,Current,Transfer,136162.54,INR,Online Shopping,West,Completed,0
+TXN-7068593,2024-11-29,Savings,Transfer,8400.64,INR,Healthcare,West,Completed,0
+TXN-2451233,2024-05-11,Credit Card,Purchase,144903.52,INR,Online Shopping,South,Pending,0
+TXN-8547425,2023-05-05,Current,Purchase,139465.21,INR,Fuel,International,Completed,0
+TXN-9178267,2023-01-27,NRE,Deposit,94604.45,INR,Education,West,Completed,0
+TXN-2798768,2024-04-24,Credit Card,Withdrawal,124391.92,INR,Dining,South,Failed,0
+TXN-8644622,2024-03-22,NRE,Deposit,69727.7,INR,Dining,East,Completed,0
+TXN-7902944,2023-07-16,Credit Card,Withdrawal,117961.79,INR,Entertainment,West,Completed,0
+TXN-2555932,2023-01-22,Current,Purchase,129460.54,INR,Dining,North-East,Completed,0
+TXN-4880892,2024-11-30,NRE,Transfer,7514.17,INR,Travel,International,Completed,0
+TXN-4247767,2023-03-21,Savings,Fee,13450.87,INR,Education,South,Completed,0
+TXN-7253017,2023-05-20,Savings,Transfer,91482.21,INR,Electronics,International,Completed,0
+TXN-7758355,2023-01-04,NRE,Purchase,76414.49,INR,Grocery,Central,Pending,0
+TXN-3705292,2024-12-28,Current,Purchase,46089.83,INR,Travel,Central,Completed,0
+TXN-2148073,2023-03-23,Salary,Refund,11922.54,INR,Travel,International,Completed,0
+TXN-6688330,2023-09-14,Credit Card,Deposit,23126.86,INR,Electronics,Central,Completed,0
+TXN-5230811,2024-12-15,Savings,Deposit,35750.12,INR,Travel,South,Completed,0
+TXN-6010940,2023-12-10,Current,Deposit,79155.54,INR,Entertainment,Central,Completed,0
+TXN-8325436,2023-02-27,NRE,Transfer,47157.73,INR,Travel,Central,Completed,0
+TXN-8072759,2024-11-25,Salary,Fee,146500.66,INR,Entertainment,East,Completed,0
+TXN-5643483,
