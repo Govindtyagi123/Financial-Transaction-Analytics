@@ -4,7 +4,7 @@
 
 **Financial Transaction Analytics** is an end-to-end data analytics project focused on analyzing financial transaction data to identify patterns in revenue, customers, products, payment methods, transaction statuses, and time-based performance.
 
-The project demonstrates a complete analytics workflow using:
+The project follows a complete analytics workflow:
 
 **Python → Data Cleaning → SQL Analysis → Power BI Dashboard → Business Insights**
 
@@ -23,7 +23,7 @@ The project demonstrates a complete analytics workflow using:
 
 ---
 
-# 📊 Dataset
+## 📊 Dataset
 
 The project uses a financial transactions dataset containing approximately **100,000 raw transaction records**.
 
@@ -81,7 +81,7 @@ Raw Financial Transaction Data
             ↓
       Cleaned Dataset
             ↓
-        MySQL / SQL
+       MySQL / SQL
             ↓
        Data Analysis
             ↓
@@ -98,23 +98,14 @@ Python and Pandas were used to inspect and clean the raw financial transaction d
 
 ### Data Cleaning Steps
 
-- Checked the structure and data types of the dataset
-- Identified missing values
+- Checked missing values
 - Identified invalid negative quantity values
 - Identified invalid negative price values
 - Handled missing quantity values
 - Handled missing price values
 - Handled missing transaction status
 - Converted transaction dates into the correct date format
-- Prepared the final cleaned dataset for SQL analysis
-
-### Output
-
-The cleaned dataset was saved in the `data` folder as:
-
-```text
-cleaned_financial_transaction
-```
+- Prepared the cleaned dataset for SQL analysis
 
 The complete Python notebook is available in:
 
@@ -131,9 +122,7 @@ The cleaned financial transaction data was analyzed using MySQL.
 
 SQL analysis was divided into five categories.
 
-## Basic Business Analysis
-
-The analysis includes:
+### Basic Business Analysis
 
 - Total transactions
 - Unique customers
@@ -142,7 +131,6 @@ The analysis includes:
 - Average price
 - Average quantity
 - Average transaction value
-- Overall business performance
 
 File:
 
@@ -151,11 +139,7 @@ SQL/
 └── Basic Business Analysis.sql
 ```
 
----
-
-## Customer Analysis
-
-Customer-level analysis includes:
+### Customer Analysis
 
 - Transactions per customer
 - Customer spending
@@ -165,7 +149,6 @@ Customer-level analysis includes:
 - Top customers by quantity
 - One-time customers
 - Repeat customers
-- Revenue contribution from top customers
 
 File:
 
@@ -174,11 +157,7 @@ SQL/
 └── Customer Analysis.sql
 ```
 
----
-
-## Date & Time Analysis
-
-Time-based analysis includes:
+### Date & Time Analysis
 
 - Daily revenue
 - Monthly revenue
@@ -195,13 +174,7 @@ SQL/
 └── Date and Time Analysis.sql
 ```
 
----
-
-## Payment & Transaction Analysis
-
-This analysis focuses on payment methods and transaction statuses.
-
-It includes:
+### Payment & Transaction Analysis
 
 - Transactions by payment method
 - Revenue by payment method
@@ -218,11 +191,7 @@ SQL/
 └── Payment & Transaction Analysis.sql
 ```
 
----
-
-## Product Analysis
-
-Product-level analysis includes:
+### Product Analysis
 
 - Revenue by product
 - Transaction count by product
@@ -247,8 +216,6 @@ SQL/
 The cleaned data was used to create an interactive **Financial Transactions Power BI Dashboard**.
 
 The dashboard contains three pages.
-
----
 
 ## Page 1 — Executive Overview
 
@@ -295,7 +262,9 @@ This page focuses on product performance and customer behavior.
 - Products by Average Price
 - Product Performance Matrix
 
-The product performance matrix contains:
+### Product Performance Matrix
+
+The matrix contains:
 
 ```text
 Product
@@ -331,8 +300,6 @@ This page focuses on transaction behavior, payment methods, and transaction stat
 ---
 
 # 📐 DAX Measures
-
-Some important DAX measures used in the Power BI dashboard include:
 
 ### Total Revenue
 
@@ -393,8 +360,6 @@ AVERAGE(
 
 # 💡 Business Questions Answered
 
-This project answers several important business questions:
-
 ### Business Performance
 - What is the total revenue?
 - How many transactions occurred?
@@ -432,20 +397,20 @@ This project answers several important business questions:
 ```text
 Financial_Transaction_Analytics/
 │
-├── 📁 data/
+├── data/
 │   ├── cleaned_financial_transaction
 │   └── financial-transactions
 │
-├── 📁 Power BI/
+├── Power BI/
 │   ├── Financial Transactions.pbix
 │   ├── page1_executive_overview.png
 │   ├── page2_executive_overview.png
 │   └── page3_executive_overview.png
 │
-├── 📁 Python/
+├── Python/
 │   └── clean_financial_transactions.ipynb
 │
-├── 📁 SQL/
+├── SQL/
 │   ├── Basic Business Analysis.sql
 │   ├── Customer Analysis.sql
 │   ├── Date and Time Analysis.sql
@@ -485,8 +450,6 @@ Financial_Transaction_Analytics/
 This project demonstrates a complete **end-to-end data analytics workflow**, from cleaning raw financial transaction data to performing SQL-based analysis and developing an interactive Power BI dashboard.
 
 The project showcases practical skills in **Python, SQL, MySQL, Power BI, DAX, data cleaning, data analysis, visualization, and business intelligence**.
-
-It is designed to demonstrate the type of analytical workflow used in real-world **Data Analyst, Financial Analyst, Business Intelligence, Reporting, and related analytics roles**.
 
 ---
 
